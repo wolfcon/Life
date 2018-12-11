@@ -1,4 +1,4 @@
-# LetsEncrypted配置
+# LetsEncrypt配置
 
 
 # Certbot - 官方推荐的证书生成工具
