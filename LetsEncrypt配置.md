@@ -1,3 +1,11 @@
+---
+title: LetsEncrypt 配置
+---
+
+
+
+[TOC]
+
 # LetsEncrypt配置
 
 
@@ -24,7 +32,8 @@ _acme-challenge.i.cgtn.com with the following value:
   - `chain.pem`    : used for OCSP stapling in Nginx >=1.3.7.
   - `cert.pem`     : will break many server configurations, and should not be used
                  without reading further documentation [User Guide](https://certbot.eff.org/docs/using.html#where-are-my-certificates.).
-                 
+               
+
 一般情况下, 使用 `fullchain.pem` 和 `privkey.pem` 其他的, 按照需要自行使用.
 
 ## 可能在 Amazon Linux 1 上出现的错误
