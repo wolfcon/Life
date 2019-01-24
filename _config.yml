@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+webrick:
+  headers:
+    My-Header: Real Life
+    My-Other-Header: conMan's Life
+
+plugins:
+  - jekyll-sitemap
