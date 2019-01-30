@@ -15,7 +15,8 @@
 ## 日常
 
 - [cron 定时任务](cron定时任务.md)
-- [mac外接显示器 HiDPI 设置方法](RetinaDisplayResolutionSetting.md)
+- [mac 外接显示器 HiDPI 设置方法](RetinaDisplayResolutionSetting.md)
+- [万恶的 bogon](Bogon.md)
 
 ## 证书相关
 - [Lets Encrypt 证书配置](LetsEncrypt配置.md)
