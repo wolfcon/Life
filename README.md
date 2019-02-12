@@ -32,7 +32,7 @@
 
 ## Display
 
-- [Benq Zowie XL2540](ZowieXL2540Advanced.md)
+- [Benq Zowie XL2540 浅谈](ZowieXL2540Advanced.md)
 
 # Game
 
