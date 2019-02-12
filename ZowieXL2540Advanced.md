@@ -2,7 +2,7 @@
 title: 新入手显示器 Benq Zowie XL2540 体验
 ---
 
-# Benq Zowie XL2540
+# 新入手显示器 Benq Zowie XL2540 体验
 
 废话不多说, 进入高级工厂模式!
 
