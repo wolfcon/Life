@@ -28,6 +28,12 @@
 # Others
 - [我常用的软件](Useful_Softwares.md)
 
+# Hardware
+
+## Display
+
+- [Benq Zowie XL2540](ZowieXL2540Advanced.md)
+
 # Game
 
 ## CSGO
