@@ -40,3 +40,4 @@
 
 ## CSGO
 - [启动项的奥秘](CSGO_启动项.md)
+- [架设自定义皮肤服务器](CSGOLocalServer_Skins.md)
