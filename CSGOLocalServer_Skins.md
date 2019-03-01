@@ -35,16 +35,16 @@ CSGO 服务器有两类，一种是本地服务器，Vavle 没有任何约束；
 
 ## 插件平台安装步骤：
 
-- 下载 `Metamod`(注意系统类型)：http://www.sourcemm.net/downloads.php?branch=stable]     
+- 下载 `Metamod`(注意系统类型)：<http://www.sourcemm.net/downloads.php?branch=stable>
   - [mmsource-1.10.7-git968-windows.zip](CSGOLocalServer_Skins/mmsource-1.10.7-git968-windows.zip)
 
-- 制作 CSGO 专属 VDF：http://www.sourcemm.net/vdf 
+- 制作 CSGO 专属 VDF：<http://www.sourcemm.net/vdf> 
   Game：Counter Strike:Global Offensive
   Game folder：为空
   点击Generate metamod.vdf
   - [metamod.vdf](CSGOLocalServer_Skins/metamod.vdf)
 
-- 下载 `Sourcemod` (注意系统类型): http://www.sourcemod.net/downloads.php?branch=stable
+- 下载 `Sourcemod` (注意系统类型): <http://www.sourcemod.net/downloads.php?branch=stable>
   - [sourcemod-1.9.0-git6275-windows.zip](CSGOLocalServer_Skins/sourcemod-1.9.0-git6275-windows.zip)
 
 - 将刚才下载的两个压缩包解压到同一目录下
@@ -53,10 +53,10 @@ CSGO 服务器有两类，一种是本地服务器，Vavle 没有任何约束；
 
 - 将所得到的 `addons/`, `cfg/` 这两个文件夹复制到游戏服务器的 `csgo/` 文件夹下即可完成插件平台的安装
 
-- 然后下载这个附件一样解压到上述文件夹， [<https://ptah.zizt.ru/>]下载最新的。
+- 然后下载这个附件一样解压到上述文件夹， <https://ptah.zizt.ru/> 下载最新的。
   - [PTaH-V1.0.10-build13-windows.zip](CSGOLocalServer_Skins/PTaH-V1.0.10-build13-windows.zip)
 
-- 然后去下载[<https://github.com/kaganus/weapons/releases/tag/v1.3.2>]和[<https://github.com/kaganus/gloves/releases/tag/v1.0.3>]，点source code(zip)下载。下载完毕以后依旧解压缩到上述文件夹。
+- 然后去下载 <https://github.com/kaganus/weapons/releases/tag/v1.3.2> 和 <https://github.com/kaganus/gloves/releases/tag/v1.0.3>，点source code(zip)下载。下载完毕以后依旧解压缩到上述文件夹。
   - [weapons-v1.3.2.zip](CSGOLocalServer_Skins/weapons-v1.3.2.zip)
   - [gloves-1.0.3.zip](CSGOLocalServer_Skins/gloves-1.0.3.zip)
 
@@ -84,4 +84,4 @@ CSGO 服务器有两类，一种是本地服务器，Vavle 没有任何约束；
 
 Enjoy！
 
-> 参考原文链接 http://ngabbs.com/read.php?&tid=15885087
+> 参考原文链接 <http://ngabbs.com/read.php?&tid=15885087>
