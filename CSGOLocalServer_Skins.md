@@ -42,7 +42,9 @@ CSGO 服务器有两类，一种是本地服务器，Vavle 没有任何约束；
 - 制作 CSGO 专属 VDF：<http://www.sourcemm.net/vdf> 
 
   >Game：Counter Strike:Global Offensive
+  >
   >Game folder：为空
+  >
   >点击Generate metamod.vdf
 
   - [metamod.vdf](CSGOLocalServer_Skins/metamod.vdf)
