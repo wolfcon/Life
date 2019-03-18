@@ -26,6 +26,7 @@
 # Management
 
 - [API 版本号管理](Semantic_Versioning.md)
+- [文档系统部署](DocSite.md)
 
 # Others
 - [我常用的软件](Useful_Softwares.md)
