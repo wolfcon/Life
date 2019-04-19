@@ -82,7 +82,7 @@ class YourOwnError: Error {
 
 这时候就要使用其他的协议来帮助我们了. 
 
-### LocalError
+### LocalizedError
 
 ```swift
 /// Describes an error that provides localized messages describing why
