@@ -9,6 +9,7 @@
 ## Swift
 
 - [Swift 修饰符](Swift修饰符.md)
+- [Error (👀NSError 去哪了?)](Swift-Error.md)
 
 ## Debug
 
