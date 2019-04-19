@@ -105,6 +105,10 @@ public protocol LocalizedError : Error {
 
 看到这个东西是不是仿佛看到了 `NSError` 的影子. 没错. `Error` 拆分了 `NSError` 的各项职能, 变得更加灵活和更加容易表述.
 
+
+
+还有一个需要注意的地方就是 Error 的表述一般使用 `error.localizedDescription`, 这里调用的就是 `LocalizedError` 的 `errorDescription` 属性, 而并不是简单的 `override var localizedDescription`
+
 ### CustomStringConvertible / CustomDebugStringConvertible / 
 
 这个是打印字符串的标准协议了. 不多赘述.
