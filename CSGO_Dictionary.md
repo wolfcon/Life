@@ -1,13 +1,10 @@
 ---
-title
-CSGO 英汉大辞典
+title: CSGO 英汉大辞典
 ---
 
 [TOC]
 
 # CSGO 英汉大辞典
-
-
 
 ## A
 
