@@ -2,9 +2,20 @@
 title: CoreFoundation - String Transform
 ---
 
+[TOC]
+
 # CoreFoundation - String Transform
 
 ## 前言
+
+> 关于一种语言好不好用，你只需要衡量以下两种指标：
+>
+> 1. API 的统一性
+> 2. String 类的实现质量
+>
+>
+>
+> 引用自: Mattt
 
 其实汉字转拼音 CoreFoundation 已经自带了, 我们可以很轻松的得到拼音. 是不是很带感👻 
 
@@ -28,7 +39,7 @@ public func CFStringTransform(_ string: CFMutableString!, _ range: UnsafeMutable
 
 这里要注意的就是 `CFMutableString`, 我们用到的是它, 而不是 `CFString`. 为什么不用我多说了吧🤣
 
-## 打开 Playground. 
+### 打开 Playground. 
 
 我们来看首先创建一个转换函数.
 
@@ -47,7 +58,7 @@ func transform(_ word: String, _ transform: CFString) -> String {
 let word = "Wisdom / 贤者 / 賢者 / ケンジャ / けんじゃ / 세이지 / ऋषि / الخسحكيم / Φασκόμηλο / шалфей / ปราชญ์"
 ```
 
-### 任意字符转成拉丁字符 (`有更深层的意义`)
+## 任意字符转成拉丁字符 (`有更深层的意义`)
 
 ```swift
 // 任意字符转写成拉丁文
@@ -67,7 +78,7 @@ let word2 = transform(word1, kCFStringTransformStripDiacritics)
 
 > Wisdom / xian zhe / xian zhe / kenja / kenja / seiji / rsi / alkhshkym / Phaskomelo / salfej / prachy
 
-#### 深层意义
+### 深层意义
 
 在应用中存在多语言搜索及检索时, 不需要对单独语言进行处理.
 
@@ -90,7 +101,7 @@ let searchIndex = word2.lowercased()
 
 这时我们忽略 `/`, **这时通过对用户输入的文本使用同样的变换，你就可以实现一个通用的搜索，无论搜索文本或内容是什么语言**
 
-### 将普通话转写为拼音
+## 将普通话转写为拼音
 
 ```swift
 transform(word, kCFStringTransformMandarinLatin)
@@ -100,7 +111,7 @@ transform(word, kCFStringTransformMandarinLatin)
 
 > Wisdom / xián zhě / xián zhě / ケンジャ / けんじゃ / 세이지 / ऋषि / الخسحكيم / Φασκόμηλο / шалфей / ปราชญ์
 
-### 将平假转写为片假
+## 将平假转写为片假
 
 ```swift
 transform(word, kCFStringTransformHiraganaKatakana)
@@ -110,7 +121,26 @@ transform(word, kCFStringTransformHiraganaKatakana)
 
 > Wisdom / 贤者 / 賢者 / ケンジャ / ケンジャ / 세이지 / ऋषि / الخسحكيم / Φασκόμηλο / шалфей / ปราชญ์"
 
-### 其他的就不做赘述了.
+## 其他的就不做赘述了.
 
+## PS: 其实还有个比较重要的就是 Unicode
 
+为什么呢? 因为`kCFStringTransformToUnicodeName` 让你可以找出特殊字符的 Unicode 标准名，包括 `Emoji`
+
+🌰走你
+
+```swift
+let emoji = "👻💀🤣🐱"
+transform(emoji, kCFStringTransformToUnicodeName)
+```
+
+结果是 *(我把每个字符换行了, 便于查看)*
+
+> \\N{GHOST}
+>
+> \N{SKULL}
+>
+> \N{ROLLING ON THE FLOOR LAUGHING}
+>
+> \N{CAT FACE}"
 
