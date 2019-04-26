@@ -99,7 +99,7 @@ let searchIndex = word2.lowercased()
 
 > wisdom / xian zhe / xian zhe / kenja / kenja / seiji / rsi / alkhshkym / phaskomelo / salfej / prachy
 
-这时我们忽略 `/`, **这时通过对用户输入的文本使用同样的变换，你就可以实现一个通用的搜索，无论搜索文本或内容是什么语言**
+~~我们先忽略~~ `/`, **这时通过对用户输入的文本使用同样的变换，你就可以实现一个通用的搜索，无论搜索文本或内容是什么语言**
 
 ## 将普通话转写为拼音
 
