@@ -31,6 +31,7 @@
 - [cron 定时任务](cron定时任务.md)
 - [mac 外接显示器 HiDPI 设置方法](RetinaDisplayResolutionSetting.md)
 - [万恶的 bogon](Bogon.md)
+- [macOS 的基础配置及实用功能](macOS_basic_settings.md)
 
 ## 证书相关
 - [Lets Encrypt 证书配置](LetsEncrypt配置.md)
