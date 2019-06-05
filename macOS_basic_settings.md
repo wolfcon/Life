@@ -34,6 +34,8 @@ csrutil status
 
 ### 开启/关闭
 
+前提 - **需要先重启进入恢复模式**: `⌘` + `R`
+
 ```bash
 csrutil enable
 csrutil disable
