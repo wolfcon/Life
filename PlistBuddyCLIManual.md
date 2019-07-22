@@ -21,7 +21,7 @@ PlistBuddy 是 macOS 系统携带的解析 Plist 文件的好帮手, 如其名.
 >
 > Usage: PlistBuddy [-cxh] <file.plist>
 >
-> ​    -c "<command>" execute command, otherwise run in interactive mode
+> ​    -c "\<command>" execute command, otherwise run in interactive mode
 >
 > ​    -x output will be in the form of an xml plist where appropriate
 >
@@ -37,21 +37,21 @@ PlistBuddy 是 macOS 系统携带的解析 Plist 文件的好帮手, 如其名.
 >
 > ​    Revert - Reloads the last saved version of the file
 >
-> ​    Clear [<Type>] - Clears out all existing entries, and creates root of Type
+> ​    Clear [\<Type>] - Clears out all existing entries, and creates root of Type
 >
-> ​    Print [<Entry>] - Prints value of Entry.  Otherwise, prints file
+> ​    Print [\<Entry>] - Prints value of Entry.  Otherwise, prints file
 >
-> ​    Set <Entry> <Value> - Sets the value at Entry to Value
+> ​    Set \<Entry> \<Value> - Sets the value at Entry to Value
 >
-> ​    Add <Entry> <Type> [<Value>] - Adds Entry to the plist, with value Value
+> ​    Add \<Entry> \<Type> [\<Value>] - Adds Entry to the plist, with value Value
 >
-> ​    Copy <EntrySrc> <EntryDst> - Copies the EntrySrc property to EntryDst
+> ​    Copy \<EntrySrc> \<EntryDst> - Copies the EntrySrc property to EntryDst
 >
-> ​    Delete <Entry> - Deletes Entry from the plist
+> ​    Delete \<Entry> - Deletes Entry from the plist
 >
-> ​    Merge <file.plist> [<Entry>] - Adds the contents of file.plist to Entry
+> ​    Merge <file.plist> [\<Entry>] - Adds the contents of file.plist to Entry
 >
-> ​    Import <Entry> <file> - Creates or sets Entry the contents of file
+> ​    Import \<Entry> \<file> - Creates or sets Entry the contents of file
 >
 > 
 >
@@ -169,14 +169,16 @@ PlistBuddy -c "Delete :FruitPackage:weight" example.plist
 
 ### 替换掉 `Command`: 
 
-- Clear [<Type>] - Clears out all existing entries, and creates root of Type
-- Print [<Entry>] - Prints value of Entry.  Otherwise, prints file
-- Set <Entry> <Value> - Sets the value at Entry to Value
-- Add <Entry> <Type> [<Value>] - Adds Entry to the plist, with value Value
-- Copy <EntrySrc> <EntryDst> - Copies the EntrySrc property to EntryDst
-- Delete <Entry> - Deletes Entry from the plist
-- Merge <file.plist> [<Entry>] - Adds the contents of file.plist to Entry
-- Import <Entry> <file> - Creates or sets Entry the contents of file
+- Clear [\<Type>] - Clears out all existing entries, and creates root of Type
+- Print [\<Entry>] - Prints value of Entry.  Otherwise, prints file
+- Set \<Entry> \<Value> - Sets the value at Entry to Value
+- Add \<Entry> \<Type> [\<Value>] - Adds Entry to the plist, with value Value
+- Copy \<EntrySrc> <\EntryDst> - Copies the EntrySrc property to EntryDst
+- Delete \<Entry> - Deletes Entry from the plist
+- Merge <file.plist> [\<Entry>] - Adds the contents of file.plist to Entry
+- Import \<Entry> \<file> - Creates or sets Entry the contents of file
+
+*注意: [ ] 为可选参数, \< > 为需要自行替换的内容*
 
 ### 替换掉 `Key or Subscript`, 也就是上面命令里的 `Entry`: 
 
