@@ -34,6 +34,7 @@
 - [macOS 的基础配置及实用功能](macOS_basic_settings.md)
 - [PlistBuddy CLI 使用方法](PlistBuddyCLIManual.md)
 - [macOS 顶部栏图标高级骚操作指南](TopTaskBarIconArrangement.md)
+- [Xcode 账户失效问题](XcodeAccountExpired.md)
 
 ## 证书相关
 - [Lets Encrypt 证书配置](LetsEncrypt配置.md)
