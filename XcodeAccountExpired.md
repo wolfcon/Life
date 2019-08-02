@@ -21,3 +21,4 @@ defaults write com.apple.dt.Xcode DVTDeveloperAccountUseKeychainService -bool NO
 
 这样就成功解决使用 `xcodebuild` CI 自动上传包时报错的问题了.🎉
 
+>  Reference Article: [xcode 9.3 session expires every time i close and re-open Xcode](https://stackoverflow.com/questions/49675844/xcode-9-3-session-expires-every-time-i-close-and-re-open-xcode) from Stack Overflow
