@@ -20,6 +20,7 @@
 
 - [Swift 修饰符](Swift修饰符.md)
 - [Error (👀NSError 去哪了?)](Swift-Error.md)
+- [Print & DebugPrint 进阶](Swift-Print.md)
 
 ## Debug
 
