@@ -67,3 +67,9 @@
 - [启动项的奥秘](CSGO_启动项.md)
 - [架设自定义皮肤服务器](CSGOLocalServer_Skins.md)
 - [CSGO-英文大词典](CSGO_Dictionary.md)
+
+## WoW
+
+### Development
+
+- [魔兽世界插件开发之版本判断](WoW_VersionCheckVariable.md)
