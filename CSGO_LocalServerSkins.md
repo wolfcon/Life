@@ -29,7 +29,7 @@ CSGO 服务器有两类，一种是本地服务器，Vavle 没有任何约束；
 
 上张图压压惊 ~~众所周知，龙狙是不存在带计数版本的~~
 
-![img](CSGOLocalServer_Skins/dragonLore.png)
+![img](CSGO_LocalServerSkins/dragonLore.png)
 
 此插件可以免费使用任何 CSGO 游戏内所有的皮肤，包含抢、刀、手套，随意搭配计数器版本与否和磨损度；磨损度以 `5%` 为步进随意调节；名字标签。
 
@@ -37,7 +37,7 @@ CSGO 服务器有两类，一种是本地服务器，Vavle 没有任何约束；
 
 - 下载 `Metamod`(注意系统类型)：<http://www.sourcemm.net/downloads.php?branch=stable>
 
-  - [mmsource-1.10.7-git968-windows.zip](CSGOLocalServer_Skins/mmsource-1.10.7-git968-windows.zip)
+  - [mmsource-1.10.7-git968-windows.zip](CSGO_LocalServerSkins/mmsource-1.10.7-git968-windows.zip)
 
 - 制作 CSGO 专属 VDF：<http://www.sourcemm.net/vdf> 
 
@@ -47,11 +47,11 @@ CSGO 服务器有两类，一种是本地服务器，Vavle 没有任何约束；
   
   >点击Generate metamod.vdf
 
-  - [metamod.vdf](CSGOLocalServer_Skins/metamod.vdf)
+  - [metamod.vdf](CSGO_LocalServerSkins/metamod.vdf)
 
 - 下载 `Sourcemod` (注意系统类型): <http://www.sourcemod.net/downloads.php?branch=stable>
 
-  - [sourcemod-1.9.0-git6275-windows.zip](CSGOLocalServer_Skins/sourcemod-1.9.0-git6275-windows.zip)
+  - [sourcemod-1.9.0-git6275-windows.zip](CSGO_LocalServerSkins/sourcemod-1.9.0-git6275-windows.zip)
 
 - 将刚才下载的两个压缩包解压到同一目录下
 
@@ -61,11 +61,11 @@ CSGO 服务器有两类，一种是本地服务器，Vavle 没有任何约束；
 
 - 然后下载这个附件一样解压到上述文件夹， <https://ptah.zizt.ru/> 下载最新的。
 
-  - [PTaH-V1.0.10-build13-windows.zip](CSGOLocalServer_Skins/PTaH-V1.0.10-build13-windows.zip)
+  - [PTaH-V1.0.10-build13-windows.zip](CSGO_LocalServerSkins/PTaH-V1.0.10-build13-windows.zip)
 
 - 然后去下载 <https://github.com/kaganus/weapons/releases/tag/v1.3.2> 和 <https://github.com/kaganus/gloves/releases/tag/v1.0.3>，点source code(zip)下载。下载完毕以后依旧解压缩到上述文件夹。
-  - [weapons-v1.3.2.zip](CSGOLocalServer_Skins/weapons-v1.3.2.zip)
-  - [gloves-1.0.3.zip](CSGOLocalServer_Skins/gloves-1.0.3.zip)
+  - [weapons-v1.3.2.zip](CSGO_LocalServerSkins/weapons-v1.3.2.zip)
+  - [gloves-1.0.3.zip](CSGO_LocalServerSkins/gloves-1.0.3.zip)
 
 - 修改 `addons/sourcemod/configs/core.cfg` 文件，找到 `"FollowCSGOServerGuidelines" "yes"`，把 `yes` 改成 `no` 之后保存。
 
@@ -73,7 +73,7 @@ CSGO 服务器有两类，一种是本地服务器，Vavle 没有任何约束；
 
 解压文件夹目录并不是 `csgo.exe` 所在的文件夹，可以看这张图，注意解压以后 `addons` 和 `cfg` 的要跟图中的一样。
 
-![img](CSGOLocalServer_Skins/file_path.png)
+![img](CSGO_LocalServerSkins/file_path.png)
 
 以上文件下载请自行杀毒，我不保证他们的安全性，反正也没啥可执行文件。安装就此完成。下面是启动本地服务器。
 

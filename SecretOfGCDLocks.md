@@ -205,7 +205,7 @@ void dispatch_barrier_sync(dispatch_queue_t queue, dispatch_block_t block);
 
 
 
-![queue Image](Secret_of_GCD_Locks/Queue.png)
+![queue Image](SecretOfGCDLocks/Queue.png)
 
 在这个并发队列中，读取操作是用普通的块来实现的，而写入操作则是用栅栏块来实现的 读取操作可以并行，但写入操作必须单独执行，因为它是栅栏块
 
