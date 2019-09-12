@@ -28,13 +28,13 @@
 
 # Windows
 
-## 日常
+## General
 
 - [SonyTV Lan Share by SMB](SonyLanShareBySMB.md)
 
 # Linux & macOS 
 
-## 日常
+## General
 
 - [cron 定时任务](cron定时任务.md)
 - [mac 外接显示器 HiDPI 设置方法](RetinaDisplayResolutionSetting.md)
@@ -44,7 +44,7 @@
 - [macOS 顶部栏图标高级骚操作指南](TopTaskBarIconArrangement.md)
 - [Xcode 账户失效问题](XcodeAccountExpired.md)
 
-## 证书相关
+## Certificate
 - [Lets Encrypt 证书配置](LetsEncrypt配置.md)
 
 # Management
@@ -70,6 +70,8 @@
 - [CSGO-英文大词典](CSGO_Dictionary.md)
 
 ## WoW
+
+- [基本设置命令](WoW_SettingCommands.md)
 
 ### Development
 
