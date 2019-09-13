@@ -57,13 +57,15 @@ Dont toogle shoot
 
 ## Addons
 
-- aBlueShaman Classic
-- Advanced Interface Options
+如果没有提供 URL. 则应当在 [CurseForge](https://www.curseforge.com/wow/addons) 上都可以下载得到
+
+- [aBlueShaman Classic](https://www.wowinterface.com/downloads/info25101-aBlueShaman.html#info)
+- [Advanced Interface Options](https://www.wowinterface.com/downloads/fileinfo.php?id=24947#info)
 - Auctionator
 - Battle for Azeroth UI
 - ~~Class Color~~
 - ClassicAutraDurations
-- ClassicAutoDismount
+- [ClassicAutoDismount](https://www.wowinterface.com/downloads/info25010-ClassicAutoDismount.html#info)
 - ClassicCastbars
 - ~~ClassicSpellActivations~~
 - Details! Damage Meter
