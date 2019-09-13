@@ -72,6 +72,7 @@
 ## WoW
 
 - [基本设置命令](WoW_SettingCommands.md)
+- [Xaryu's Addons & Macros](WoW_Xaryu'sAddonsMacros.md)
 
 ### Development
 
