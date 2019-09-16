@@ -58,6 +58,10 @@
 
 # Hardware
 
+## Keyboard
+
+- [常识 - USB 与 PS/2 键盘之间的接口区别 (转 - 编辑版)](CS_USBKeyboardPS2.md)
+
 ## Display
 
 - [Benq Zowie XL2540 浅谈](ZowieXL2540Advanced.md)
