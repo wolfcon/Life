@@ -56,6 +56,9 @@
 - [我常用的软件](UsefulSoftwares.md)
 - [屏蔽 Google API / Recaptcha / Analytics 以加快网站访问速度](BlockGoogleSuits2SpeedUp.md)
 
+## Lua
+- [Lua 中的 and 和 or 的特殊用法](Lua_AndOrUsage.md)
+
 # Hardware
 
 ## Keyboard
