@@ -5,7 +5,7 @@ toc: true
 
 # 在 Finder 中对文件夹/文件加入 `使用 VSCode 打开`
 
-## How to add
+## Getting Started
 
 1. Open `Automator` 
 2. Press `⌘`+`N` to create a new  `Quick Action`
@@ -24,7 +24,7 @@ do
 done
 ```
 
-## Where to modify
+## Modify
 
 - Open `System Preferences`.
 - Select `Keyboard`
