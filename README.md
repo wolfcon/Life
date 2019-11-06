@@ -85,3 +85,6 @@
 ### Development
 
 - [魔兽世界插件开发之版本判断](WoW_VersionCheckVariable.md)
+
+- [Patch 1.13.2/API changes](https://wow.gamepedia.com/Patch_1.13.2/API_changes)
+
