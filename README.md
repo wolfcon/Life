@@ -9,6 +9,7 @@
 - [宏命令判断检测 SDK 版本](SDKVersionCondition.md)
 - [Pre-defined C/C++ Compiler Macros](PreDefinedCC++CompilerMarcros.md)
 - [生物认证](LocalAuthentication.md)
+- [Customizing the Notarization Workflow](CustomizingTheNotarizationWorkflow.md)
 
 ### LocalStorage
 
