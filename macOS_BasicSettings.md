@@ -24,6 +24,17 @@ sudo spctl --master-disable
 sudo /Applications/${Install.app}/Contents/Resources/createinstallmedia --volume /Volumes/${MyVolume} --applicationpath /Applications/${Install.app}
 ```
 
+### 制作 iso
+
+```bash
+hdiutil create -o ./temp -size 8000m -layout SPUD -fs HFS+J
+hdiutil attach ./temp.dmg -noverify -mountpoint /Volumes/install_build
+sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia  --volume /Volumes/install_build/
+hdiutil detach /Volumes/Install\ macOS\ Catalina/
+hdiutil convert temp.dmg -format UDTO -o macOSCatalina
+mv macOSCatalina.cdr macOSCatalina.iso
+```
+
 ## ⚠️‼️关闭 SIP (System Integrity Protection)
 
 ### 查询 SIP 状态
