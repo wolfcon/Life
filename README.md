@@ -83,6 +83,10 @@
 - [基本设置命令](WoW_SettingCommands.md)
 - [Xaryu's Addons & Macros](WoW_Xaryu'sAddonsMacros.md)
 
+## C&C RedAlert
+
+- [[Win10 Solutions]RedAlert II & Yuri's Revenge](RA2_Win10.md)
+
 ### Development
 
 - [魔兽世界插件开发之版本判断](WoW_VersionCheckVariable.md)
