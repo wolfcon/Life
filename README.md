@@ -77,6 +77,7 @@
 - [启动项的奥秘](CSGO_启动项.md)
 - [架设自定义皮肤服务器](CSGO_LocalServerSkins.md)
 - [CSGO-英文大词典](CSGO_Dictionary.md)
+- [地图英文报点位置](CSGO_Callouts.md)
 
 ## WoW
 
