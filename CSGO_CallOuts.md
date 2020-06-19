@@ -12,6 +12,9 @@ title: CSGO Callouts of All Maps (报点位置)
 
 <img src="CSGO_Callouts/Train_overview.png" alt="train" style="zoom:80%;" />
 
+<details>
+	<summary>Click to expand Details!</summary>
+  
 ### Detail
 
 | Callout Name   | Callout Description                                          |
@@ -61,6 +64,7 @@ title: CSGO Callouts of All Maps (报点位置)
 | Camera         | The wall on A Site between A3 and A2.                        |
 | Kitchen        | The kitchen that lies between T Stairs and Showers.          |
 | Summit         | The area between Bomb Train and White, where the player Summit1g famously was killed by his own molotov. |
+</details>
 
 ## Dust 2
 
@@ -68,6 +72,9 @@ title: CSGO Callouts of All Maps (报点位置)
 
 <img src="CSGO_Callouts/Dust2_overview.png" alt="dust2" style="zoom:80%;" />
 
+<details>
+	<summary>Click to expand Details!</summary>
+  
 ### Detail
 
 | Callout Name    | Callout Description                                          |
@@ -124,12 +131,17 @@ title: CSGO Callouts of All Maps (报点位置)
 | Catwalk         | The walkway on the side of Mid that leads onto A Short and the A Bombsite. Generally this callout is defined by the start of the Catwalk at the top of Mid up until Short Stairs, where it transitions into A Short. |
 | CT Spawn        | This is the location (technically under short) that the Counter-Terrorist team spawn within. |
 
+</details>
+
 ## Inferno
 
 ### Overview
 
 <img src="CSGO_Callouts/Inferno_overview.png" alt="Inferno" style="zoom:80%;" />
 
+<details>
+	<summary>Click to expand Details!</summary>
+  
 ### Detail
 
 | Callout Name             | Callout Description                                          |
@@ -196,12 +208,17 @@ title: CSGO Callouts of All Maps (报点位置)
 | Logs                     | The small cubby at the bottom of Banana with sets of logs located in the space. |
 | Bottom Mid               | The side of Mid closest to T Spawn, right around where Underpass comes out onto. |
 
+</details>
+
 ## Overpass
 
 ### Overview
 
 <img src="CSGO_Callouts/Overpass_overview.png" alt="Overpass" style="zoom:80%;" />
 
+<details>
+	<summary>Click to expand Details!</summary>
+  
 ### Detail
 
 | Callout Name      | Callout Description                                          |
@@ -317,12 +334,17 @@ title: CSGO Callouts of All Maps (报点位置)
 | House         | House is the building that connects Back Alley/T Apartments to T Spawn/Side Alley. |
 | Back Alley    | Back Alley refers to the area of the map between Apartments and House/TV. |
 
+</details>
+
 ## Nuke
 
 ### Overview
 
 <img src="CSGO_Callouts/Nuke_overview.png" alt="Nuke" style="zoom:80%;" />
 
+<details>
+	<summary>Click to expand Details!</summary>
+  
 ### Detail
 
 | Callout Name | Callout Description                                          |
@@ -369,12 +391,17 @@ title: CSGO Callouts of All Maps (报点位置)
 | Silo         | The large Silo that can be accessed from T Roof and overlooks Outside. |
 | Secret       | The staircase that leads from Outside to Tunnels.            |
 
+</details>
+
 ## Cache
 
 ### Overview
 
 <img src="CSGO_Callouts/Cache_overview.png" alt="Cache" style="zoom:80%;" />
 
+<details>
+	<summary>Click to expand Details!</summary>
+  
 ### Detail
 
 | Callout Name  | Callout Description                                          |
@@ -431,3 +458,5 @@ title: CSGO Callouts of All Maps (报点位置)
 | A Main        | A Main is the building that connects A Long/T Spawn to B Site. |
 | Lockers       | Lockers refers to the section of A Main (that can be seen from A Site) with lockers inside. |
 | Elektro       | Elektro is the area between Truck, A Site, and Highway.      |
+
+</details>
