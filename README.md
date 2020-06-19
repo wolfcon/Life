@@ -85,16 +85,14 @@
 - [基本设置命令](WoW_SettingCommands.md)
 - [Xaryu's Addons & Macros](WoW_Xaryu'sAddonsMacros.md)
 
-## C&C RedAlert
-
-- [[Win10 Solutions]RedAlert II & Yuri's Revenge](RA2_Win10.md)
-
 ### Development
 
 - [魔兽世界插件开发之版本判断](WoW_VersionCheckVariable.md)
-
 - [Patch 1.13.2/API changes](https://wow.gamepedia.com/Patch_1.13.2/API_changes)
 - [Porting addons to Classic](https://wow.gamepedia.com/Porting_addons_to_Classic)
-
 - [Reddit: Diff of current Classic vs Live. - Part 2. FrameXML](https://www.reddit.com/r/classicwow/comments/bnn2jp/diff_of_current_classic_vs_live_part_2_framexml/)
+
+## C&C RedAlert
+
+- [[Win10 Solutions]RedAlert II & Yuri's Revenge](RA2_Win10.md)
 
