@@ -10,6 +10,7 @@
 - [Pre-defined C/C++ Compiler Macros](PreDefinedCC++CompilerMarcros.md)
 - [生物认证](LocalAuthentication.md)
 - [Customizing the Notarization Workflow](CustomizingTheNotarizationWorkflow.md)
+- [UITests Failure - Failed to scroll to visible (by AX action) Button](UITestsFailure.md)
 
 ### LocalStorage
 
