@@ -37,7 +37,7 @@ CSGO 服务器有两类，一种是本地服务器，Vavle 没有任何约束；
 
 - 下载 `Metamod`(注意系统类型)：<http://www.sourcemm.net/downloads.php?branch=stable>
 
-  - [mmsource-1.10.7-git968-windows.zip](CSGO_LocalServerSkins/mmsource-1.10.7-git968-windows.zip)
+  - [mmsource-1.10.7-git971-windows.zip](CSGO_LocalServerSkins/mmsource-1.10.7-git971-windows.zip)
 
 - 制作 CSGO 专属 VDF：<http://www.sourcemm.net/vdf> 
 
@@ -51,7 +51,7 @@ CSGO 服务器有两类，一种是本地服务器，Vavle 没有任何约束；
 
 - 下载 `Sourcemod` (注意系统类型): <http://www.sourcemod.net/downloads.php?branch=stable>
 
-  - [sourcemod-1.9.0-git6275-windows.zip](CSGO_LocalServerSkins/sourcemod-1.9.0-git6275-windows.zip)
+  - [sourcemod-1.10.0-git6492-windows.zip](CSGO_LocalServerSkins/sourcemod-1.10.0-git6492-windows.zip)
 
 - 将刚才下载的两个压缩包解压到同一目录下
 
@@ -61,11 +61,11 @@ CSGO 服务器有两类，一种是本地服务器，Vavle 没有任何约束；
 
 - 然后下载这个附件一样解压到上述文件夹， <https://ptah.zizt.ru/> 下载最新的。
 
-  - [PTaH-V1.0.10-build13-windows.zip](CSGO_LocalServerSkins/PTaH-V1.0.10-build13-windows.zip)
+  - [PTaH-V1.1.2-build18-windows.zip](CSGO_LocalServerSkins/PTaH-V1.1.2-build18-windows.zip)
 
-- 然后去下载 <https://github.com/kaganus/weapons/releases/tag/v1.3.2> 和 <https://github.com/kaganus/gloves/releases/tag/v1.0.3>，点source code(zip)下载。下载完毕以后依旧解压缩到上述文件夹。
-  - [weapons-v1.3.2.zip](CSGO_LocalServerSkins/weapons-v1.3.2.zip)
-  - [gloves-1.0.3.zip](CSGO_LocalServerSkins/gloves-1.0.3.zip)
+- 然后去下载 <https://github.com/kaganus/weapons/releases/ 和 <https://github.com/kaganus/gloves/releases，点source code(zip)下载。下载完毕以后依旧解压缩到上述文件夹。
+  - [weapons-v1.7.0.zip](CSGO_LocalServerSkins/weapons-v1.7.0.zip)
+  - [gloves-v1.0.4.zip](CSGO_LocalServerSkins/gloves-v1.0.4.zip)
 
 - 修改 `addons/sourcemod/configs/core.cfg` 文件，找到 `"FollowCSGOServerGuidelines" "yes"`，把 `yes` 改成 `no` 之后保存。
 
