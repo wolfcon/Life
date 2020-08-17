@@ -28,7 +28,7 @@ USB键盘的这种坑爹的设计规范导致了它只能做到最多6个按键�
 
 附上USB HID的键盘规范：
 
-![PS2 接口键盘和 USB 接口键盘间有何区别？ ](http://2e.zol-img.com.cn/product/132_500x2000/428/ceRkyAanw60S.jpg)
+![PS2 接口键盘和 USB 接口键盘间有何区别？ ](CS_USBKeyboardPS2/USBHIDKeyboardDefinition.jpg)
 
 摘自：《Device Class Definition for Human Interface Devices (HID) Version 1.11》 
 
