@@ -27,6 +27,7 @@
 ## Debug
 
 - [Network Link Conditioner - 网络连接调节器(调试/测试用)](NetworkLinkConditioner.md)
+- [Watchdog - Exception Codes: 0x8badf00d](8badf00d.md)
 
 # Windows
 
