@@ -31,6 +31,7 @@
 ### Git
 
 - [Signing Commits with GPG](Git_SigningCommits.md)
+- [Shallow Clone](Git_ShallowClone.md)
 
 ### Debug
 
