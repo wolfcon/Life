@@ -109,3 +109,8 @@
 
 - [[Win10 Solutions]RedAlert II & Yuri's Revenge](RA2_Win10.md)
 
+
+
+## Medical
+
+- [感冒的轻症自我用药](Disease_Medicine4Cold.md)
