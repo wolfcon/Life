@@ -1,25 +1,41 @@
 ---
-title: 屏蔽 Google API / Recaptcha / Analytics 以加快网站访问速度
+title: 屏蔽 Google API / Recaptcha / Analytics 等以加快网站访问速度
 toc: true
 ---
 
-# 屏蔽 Google API / Recaptcha / Analytics 以加快网站访问速度
+# 屏蔽 Google API / Recaptcha / Analytics 等以加快网站访问速度
 
 [TOC]
 
-## Chrome
+## Chrome & Edge
 
 ### 利用 AdblockPlus
 
-添加以下屏蔽关键字
+#### 添加一下屏蔽源, 用于更加广阔的反 adb 的屏蔽
+
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+
+#### 自定义过滤器
+
+添加以下屏蔽关键字, 直接复制粘贴即可.🎉
 
 分别是
 
+- Twitter Widgets(仅在 hltv.org 的 Domain 下)
+- hltv 带有 bet 链接的标签
+- hltv 带有 geo class 的标签
+- bilibili 带有 pop-live class 的标签
+- hltv 顶部菠菜标签
 - Google 统计
 - Google 人机认证
 - Google API
 
 ```
+platform.twitter.com/widgets.js$domain=hltv.org
+hltv.org##[href*="bet"]
+hltv.org##[class*="geo"]
+bilibili.com##[class*="pop-live"]
+hltv.org##[class*="featured-matches-top"]
 ||google-analytics.com/
 ||www.google.com/recaptcha/
 ||apis.google.com/
