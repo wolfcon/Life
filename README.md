@@ -114,3 +114,8 @@
 ## Medical
 
 - [感冒的轻症自我用药](Disease_Medicine4Cold.md)
+
+## Driving Technique
+
+- [安全行车全责一览动图](DT_CarAccident.md)
+- [基础的驾驶技巧动图](DT_BasicCarKnowledge.md)
