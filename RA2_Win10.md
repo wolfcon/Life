@@ -8,6 +8,7 @@ title: Origin红警2（含尤里的复仇）的Win10补丁和汉化（简体中�
 
 ## 🧻 下载所需文件复制并替换 *不需要全部都下载, 按需即可* 
 
+- [最新 ddraw.dll](https://github.com/CnCNet/ts-ddraw/releases/)
 - [游戏黑屏补丁(针对显卡渲染, 包含了 ddraw.dll)](RA2_Win10/仅Win10补丁不含汉化.zip)
 - [简体汉化资源文件 - RA2](RA2_Win10/RA2汉化.zip)
 - [简体汉化资源文件 - Yuri's Revenge](RA2_Win10/尤里的复仇汉化.zip)
@@ -93,9 +94,3 @@ The patches solve the problem the same way as it is done by Ares, the Yuri's Rev
 
 
 > CnCPatcher © AlexB 2012. Last updated: 2012-06-16.
-
-
-
-# 仅替换 ddraw.dll, 不需要设置任何兼容模式
-
-[下载地址:  ddraw.dll](https://github.com/CnCNet/ts-ddraw/releases/)
