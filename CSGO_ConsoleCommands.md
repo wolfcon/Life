@@ -6,7 +6,7 @@ title: CSGO Console Command Manuals
 
 [TOC]
 
-## FPS 突然变低的解决方案 `fs`
+## FPS 突然变低的解决方案 `logaddress_add 1`
 
 ## `cl_interp_ratio "2"` 低 ping 用 1, 高 ping 用 2
 
