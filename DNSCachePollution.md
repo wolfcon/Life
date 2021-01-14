@@ -45,9 +45,9 @@ title: 万恶的 DNS 污染
 199.232.96.133      user-images.githubusercontent.com
 
 # 动漫花园的资源站
-104.25.61.106								share.dmhy.org
-104.25.62.106								share.dmhy.org
-172.67.98.15								share.dmhy.org
+104.25.61.106				share.dmhy.org
+104.25.62.106				share.dmhy.org
+172.67.98.15				share.dmhy.org
 2606:4700:20::6819:3d6a			share.dmhy.org
 2606:4700:20::6819:3e6a			share.dmhy.org
 2606:4700:20::ac43:620f			share.dmhy.org
