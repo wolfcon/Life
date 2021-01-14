@@ -6,11 +6,11 @@ title: 万恶的 DNS 污染
 
 [TOC]
 
-## 简介
+## 📄 简介
 
 说道这万恶的 DNS 污染, 真是深恶痛绝. 🤬
 
-## 解决方案
+## ✅ 解决方案
 
 1. 先去 DNS 查询网站查询 `真正的 ip`
 
@@ -24,7 +24,7 @@ title: 万恶的 DNS 污染
 
    `win + R` 输入 `drivers` 打开后, 同样在 `etc` 下
 
-## 常用的 DNS 解析地址
+## 🍪 常用的 DNS 解析地址
 
 ```hosts
 # 简单粗暴的 github 图片头像解析地址
@@ -53,9 +53,9 @@ title: 万恶的 DNS 污染
 2606:4700:20::ac43:620f			share.dmhy.org
 ```
 
-## 授人以鱼不如授人以渔
+## 🎣 授人以鱼不如授人以渔
 
-[查询真正的 DNS IP 地址 ipaddress.com](https://www.ipaddress.com/)
+[查询真正的 DNS IP 地址 👀 ipaddress.com](https://www.ipaddress.com/)
 
 
 
@@ -66,3 +66,9 @@ title: 万恶的 DNS 污染
 > macOS: `sudo killall -HUP mDNSResponder`
 >
 > Linux: 安装 `nscd` 执行 `nscd restart`
+
+## 🔨 测试
+
+兄弟们! 最终要的是测试啊. 🤩
+
+在`终端/cmd/bash` 中 `ping` 你需要的地址吧, 看是否已经解析✅
