@@ -74,6 +74,7 @@
 - [屏蔽 Google API / Recaptcha / Analytics 等以加快网站访问速度](BlockGoogleSuits2SpeedUp.md)
 - [VSCode 的各种实用(沙雕)插件合集](VSCode_Plugins.md)
 - [万恶的 DNS 污染](DNSCachePollution.md)
+- [Foobar2000 Lyrics](Foobar2kLyrics.md)
 
 ## Hardware
 
