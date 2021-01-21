@@ -36,5 +36,7 @@ git clone [remote-url] --branch [name] --single-branch [folder]
 
 ```sh
 git pull --unshallow
+# or
+git fetch --unshallow
 ```
 
