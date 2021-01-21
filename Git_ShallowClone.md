@@ -26,3 +26,15 @@ git clone --depth [depth] [remote-url]
 git clone [remote-url] --branch [name] --single-branch [folder]
 ```
 
+
+
+## Unshallow
+
+我们已经使用了 ShallowClone 那么, 再继续 pull 或者 fetch 都拿不到历史了. 如何把这个库再变成一个完全的库呢?
+
+可以使用 `--unshallow` 参数：
+
+```sh
+git pull --unshallow
+```
+
