@@ -8,38 +8,44 @@ title: Origin红警2（含尤里的复仇）的Win10补丁和汉化（简体中�
 
 [下载地址: ddraw.dll](https://github.com/CnCNet/cnc-ddraw/releases/latest/download/cnc-ddraw.zip)
 ## 使用方式
-1. 下载 []cnc-ddraw.zip](https://github.com/CnCNet/cnc-ddraw/releases/latest/download/cnc-ddraw.zip) 到游戏目录解压至目录.
+1. 下载 [cnc-ddraw.zip](https://github.com/CnCNet/cnc-ddraw/releases/latest/download/cnc-ddraw.zip) 到游戏目录解压至目录.
 2. 关闭所有游戏的兼容模式.
 3. 开始游戏.
 
+## 快捷键
+
+- [Alt] + [Enter] = 在`全屏`和`窗口模式`切换
+- [Ctrl] + [Tab] = 解锁鼠标指针
+- [Right Alt] + [Right Ctrl] = 解锁鼠标指针
+
 ## 支持很多老游戏
-Command & Conquer Gold
-Command & Conquer: Red Alert
-Command & Conquer: Tiberian Sun
-Command & Conquer: Red Alert 2
-Carmageddon
-Carmageddon 2
-Warcraft 2
-StarCraft
-Diablo
-Diablo 2
-Age of Empires
-Age of Empires II
-Theme Hospital
-Populous: The Beginning
-Outlaws
-Dungeon Keeper
-Dark Reign: The Future of War
-Star Wars: Galactic Battlegrounds
-Atomic Bomberman
-Dune 2000
-Oddworld: Abe's Oddysee
-Commandos
-Red Baron 3D
-F-16 Multirole Fighter
-F-22 Raptor
-Nox
-...
+- Command & Conquer Gold
+- Command & Conquer: Red Alert
+- Command & Conquer: Tiberian Sun
+- Command & Conquer: Red Alert 2
+- Carmageddon
+- Carmageddon 2
+- Warcraft 2
+- StarCraft
+- Diablo
+- Diablo 2
+- Age of Empires
+- Age of Empires II
+- Theme Hospital
+- Populous: The Beginning
+- Outlaws
+- Dungeon Keeper
+- Dark Reign: The Future of War
+- Star Wars: Galactic Battlegrounds
+- Atomic Bomberman
+- Dune 2000
+- Oddworld: Abe's Oddysee
+- Commandos
+- Red Baron 3D
+- F-16 Multirole Fighter
+- F-22 Raptor
+- Nox
+- ...
 
 # Origin红警2（含尤里的复仇）的Win10补丁和汉化（简体中文版）- Win10 黑屏补丁
 
