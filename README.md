@@ -111,7 +111,7 @@
 
 #### C&C RedAlert
 
-- [[Win10 Solutions]RedAlert II & Yuri's Revenge](RA2_Win10.md)
+- [[Win10 Solutions]RedAlert II & Yuri's Revenge + 老游戏通用适配](RA2_Win10.md)
 
 
 
