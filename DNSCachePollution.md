@@ -33,6 +33,7 @@ title: 万恶的 DNS 污染
 199.232.96.133      gist.githubusercontent.com
 199.232.96.133      cloud.githubusercontent.com
 199.232.96.133      camo.githubusercontent.com
+199.232.96.133      media.githubusercontent.com
 199.232.96.133      avatars.githubusercontent.com
 199.232.96.133      avatars0.githubusercontent.com
 199.232.96.133      avatars1.githubusercontent.com
