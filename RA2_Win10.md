@@ -4,6 +4,43 @@ title: Origin红警2（含尤里的复仇）的Win10补丁和汉化（简体中�
 
 [TOC]
 
+# 老游戏通用 ddraw.dll
+
+[下载地址: ddraw.dll](https://github.com/CnCNet/cnc-ddraw/releases/latest/download/cnc-ddraw.zip)
+## 使用方式
+1. 下载 []cnc-ddraw.zip](https://github.com/CnCNet/cnc-ddraw/releases/latest/download/cnc-ddraw.zip) 到游戏目录解压至目录.
+2. 关闭所有游戏的兼容模式.
+3. 开始游戏.
+
+## 支持很多老游戏
+Command & Conquer Gold
+Command & Conquer: Red Alert
+Command & Conquer: Tiberian Sun
+Command & Conquer: Red Alert 2
+Carmageddon
+Carmageddon 2
+Warcraft 2
+StarCraft
+Diablo
+Diablo 2
+Age of Empires
+Age of Empires II
+Theme Hospital
+Populous: The Beginning
+Outlaws
+Dungeon Keeper
+Dark Reign: The Future of War
+Star Wars: Galactic Battlegrounds
+Atomic Bomberman
+Dune 2000
+Oddworld: Abe's Oddysee
+Commandos
+Red Baron 3D
+F-16 Multirole Fighter
+F-22 Raptor
+Nox
+...
+
 # Origin红警2（含尤里的复仇）的Win10补丁和汉化（简体中文版）- Win10 黑屏补丁
 
 ## 🧻 下载所需文件复制并替换 *不需要全部都下载, 按需即可* 
@@ -18,12 +55,6 @@ title: Origin红警2（含尤里的复仇）的Win10补丁和汉化（简体中�
 就是这 5 个货!
 
 ![5exe](RA2_Win10/5exe.jpg)
-
-### ⚠️如果使用最新版 ddraw.dll, 则需要以下设置: ⚠️
-[下载地址: ddraw.dll](https://github.com/CnCNet/ts-ddraw/releases/)
-
-1. RA2 `需要设置兼容模式`, 参见下面的设置 (RA2 有bug, 可能会导致闪退)
-2. Yuri's Revenge `不需要设置兼容模式`, 切记⚠️
 
 分别打开没一个程序的兼容性设置, 修改如下选项
 
