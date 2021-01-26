@@ -113,7 +113,7 @@
 
 - [[Win10 Solutions]RedAlert II & Yuri's Revenge + 老游戏通用适配](RA2_Win10.md)
 
-
+- [How to make Command & Conquer Red Alert 2 and Yuri's Revenge Maps](https://forums.cncnet.org/topic/8245-how-to-make-ra2-yr-maps-final-alert-2-tutorial/)
 
 ## Medical
 
