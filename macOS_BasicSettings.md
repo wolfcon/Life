@@ -21,7 +21,7 @@ sudo spctl --master-disable
 ## 制作安装镜像 - createinstallmedia
 
 ```bash
-sudo /Applications/${Install.app}/Contents/Resources/createinstallmedia --volume /Volumes/${MyVolume} --applicationpath /Applications/${Install.app}
+sudo /Applications/${Install.app}/Contents/Resources/createinstallmedia --volume /Volumes/${MyVolume} /Applications/${Install.app} --downloadassets --nointeraction
 ```
 
 ### 制作 iso
