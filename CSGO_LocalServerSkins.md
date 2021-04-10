@@ -63,7 +63,7 @@ CSGO 服务器有两类，一种是本地服务器，Vavle 没有任何约束；
 
   - [PTaH-V1.1.2-build18-windows.zip](CSGO_LocalServerSkins/PTaH-V1.1.2-build18-windows.zip)
 
-- 然后去下载 <https://github.com/kaganus/weapons/releases/ 和 <https://github.com/kaganus/gloves/releases，点source code(zip)下载。下载完毕以后依旧解压缩到上述文件夹。
+- 然后去下载 [https://github.com/kaganus/weapons/releases/](https://github.com/kaganus/weapons/releases/) 和 [https://github.com/kaganus/gloves/releases](https://github.com/kaganus/gloves/releases)，点source code(zip)下载。下载完毕以后依旧解压缩到上述文件夹。
   - [weapons-v1.7.0.zip](CSGO_LocalServerSkins/weapons-v1.7.0.zip)
   - [gloves-v1.0.4.zip](CSGO_LocalServerSkins/gloves-v1.0.4.zip)
 
