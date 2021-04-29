@@ -12,6 +12,8 @@ title: macOS 基础的使用配置
 defaults write com.apple.finder AppleShowAllFiles -bool true
 ```
 
+或者使用键盘快捷键 `cmd(⌘)` + `shift` + `.`
+
 ## ⚠️❗️关闭 Gatekeeper - 允许任意来源的 Application
 
 ```bash
