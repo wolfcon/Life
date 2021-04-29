@@ -7,12 +7,12 @@ title: macOS 基础的使用配置
 [TOC]
 
 ## ⚠️❗️Finder 显示隐藏文件
-
+### Terminal
 ```bash
 defaults write com.apple.finder AppleShowAllFiles -bool true
 ```
-
-或者使用键盘快捷键 `cmd(⌘)` + `shift` + `.`
+### Keyboard shortcuts
+或者使用键盘快捷键 `command(⌘)` + `shift` + `.`
 
 ## ⚠️❗️关闭 Gatekeeper - 允许任意来源的 Application
 
