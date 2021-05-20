@@ -12,6 +12,10 @@ title: iOS Simulator 101
 
 Just record mac Screen!
 
+> Right click `QuickTime` app in Dock and `Record`.
+>
+> Stop in top menu bar right corner.
+
 ### Use Command Line Tool
 
 #### Start
