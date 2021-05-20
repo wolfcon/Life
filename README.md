@@ -15,6 +15,7 @@
 - [生物认证](LocalAuthentication.md)
 - [Customizing the Notarization Workflow](CustomizingTheNotarizationWorkflow.md)
 - [UITests Failure - Failed to scroll to visible (by AX action) Button](UITestsFailure.md)
+- [iOS Simulator 101](iOS_Simulator101.md)
 
 ### LocalStorage
 
