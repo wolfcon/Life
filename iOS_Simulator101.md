@@ -1,3 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [iOS Simulator 101](#ios-simulator-101)
+  - [Screen Recording](#screen-recording)
+    - [Use QuickTime Player](#use-quicktime-player)
+    - [Use Command Line Tool](#use-command-line-tool)
+      - [Start](#start)
+      - [End](#end)
+  - [Simulate Remote Notification](#simulate-remote-notification)
+    - [Use Command Line Tool](#use-command-line-tool-1)
+      - [Acquire Device ID](#acquire-device-id)
+      - [Push](#push)
+    - [Drag `Notification Simulation File` to `Simulator`](#drag-notification-simulation-file-to-simulator)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: iOS Simulator 101
 ---
@@ -72,5 +90,4 @@ xcrun simctl push 40F9EEBF-98BE-4203-99BB-C64D95E4D7A4 com.bundle.identifier Pus
 
 ### Drag `Notification Simulation File` to `Simulator`
 
- `Notification Simulation File(JSON payload)`  should be have this key-value `"Simulator Target Bundle": "com.bundle.identifier",` on the top level.
-
+ `Notification Simulation File(JSON payload)`  should be had this key-value `"Simulator Target Bundle": "com.bundle.identifier",` on the top level.
