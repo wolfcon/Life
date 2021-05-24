@@ -1,6 +1,31 @@
----
-title: CSGO Callouts of All Maps (报点位置)
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [CSGO Callouts of All Maps](#csgo-callouts-of-all-maps)
+  - [Train](#train)
+    - [Overview](#overview)
+    - [Detail](#detail)
+  - [Dust 2](#dust-2)
+    - [Overview](#overview-1)
+    - [Detail](#detail-1)
+  - [Inferno](#inferno)
+    - [Overview](#overview-2)
+    - [Detail](#detail-2)
+  - [Overpass](#overpass)
+    - [Overview](#overview-3)
+    - [Detail](#detail-3)
+  - [Mirage](#mirage)
+    - [Overview](#overview-4)
+    - [Detail](#detail-4)
+  - [Nuke](#nuke)
+    - [Overview](#overview-5)
+    - [Detail](#detail-5)
+  - [Cache](#cache)
+    - [Overview](#overview-6)
+    - [Detail](#detail-6)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # CSGO Callouts of All Maps
 

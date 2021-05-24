@@ -1,6 +1,18 @@
----
-title: CSGO 架设本地服务器 - 专用检视各类皮肤
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [CSGO 架设本地服务器 - 专用检视各类皮肤](#csgo-%E6%9E%B6%E8%AE%BE%E6%9C%AC%E5%9C%B0%E6%9C%8D%E5%8A%A1%E5%99%A8---%E4%B8%93%E7%94%A8%E6%A3%80%E8%A7%86%E5%90%84%E7%B1%BB%E7%9A%AE%E8%82%A4)
+  - [本文适用于](#%E6%9C%AC%E6%96%87%E9%80%82%E7%94%A8%E4%BA%8E)
+  - [本文不适用于](#%E6%9C%AC%E6%96%87%E4%B8%8D%E9%80%82%E7%94%A8%E4%BA%8E)
+    - [为什么?](#%E4%B8%BA%E4%BB%80%E4%B9%88)
+    - [结论是](#%E7%BB%93%E8%AE%BA%E6%98%AF)
+  - [插件平台安装步骤：](#%E6%8F%92%E4%BB%B6%E5%B9%B3%E5%8F%B0%E5%AE%89%E8%A3%85%E6%AD%A5%E9%AA%A4)
+    - [补充一点 !!!](#%E8%A1%A5%E5%85%85%E4%B8%80%E7%82%B9-)
+    - [创建服务器](#%E5%88%9B%E5%BB%BA%E6%9C%8D%E5%8A%A1%E5%99%A8)
+    - [加入服务器](#%E5%8A%A0%E5%85%A5%E6%9C%8D%E5%8A%A1%E5%99%A8)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 [TOC]
 

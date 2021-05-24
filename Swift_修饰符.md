@@ -1,6 +1,14 @@
----
-title: Swift 修饰关键字
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Swift 修饰关键字](#swift-%E4%BF%AE%E9%A5%B0%E5%85%B3%E9%94%AE%E5%AD%97)
+  - [函数修饰符](#%E5%87%BD%E6%95%B0%E4%BF%AE%E9%A5%B0%E7%AC%A6)
+    - [1. @discardable](#1-discardable)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 
 # Swift 修饰关键字
 

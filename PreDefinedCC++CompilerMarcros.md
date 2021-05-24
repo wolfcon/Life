@@ -1,6 +1,49 @@
----
-title: Pre-defined C/C++ Compiler Macros
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Pre-defined C/C++ Compiler Macros](#pre-defined-cc-compiler-macros)
+  - [Introduction](#introduction)
+  - [Architectures](#architectures)
+    - [Alpha](#alpha)
+        - [Example](#example)
+    - [AMD64](#amd64)
+    - [ARM](#arm)
+        - [Example](#example-1)
+    - [ARM64](#arm64)
+    - [Blackfin](#blackfin)
+    - [Convex](#convex)
+        - [Example](#example-2)
+    - [Epiphany](#epiphany)
+    - [HP/PA RISC](#hppa-risc)
+        - [Example](#example-3)
+    - [Intel x86](#intel-x86)
+        - [Example](#example-4)
+    - [Intel Itanium (IA-64)](#intel-itanium-ia-64)
+        - [Example](#example-5)
+    - [Motorola 68k](#motorola-68k)
+        - [Example](#example-6)
+    - [MIPS](#mips)
+        - [Example](#example-7)
+    - [PowerPC](#powerpc)
+        - [Example](#example-8)
+    - [Pyramid 9810](#pyramid-9810)
+    - [RS/6000](#rs6000)
+    - [SPARC](#sparc)
+        - [Example](#example-9)
+    - [SuperH](#superh)
+    - [SystemZ](#systemz)
+    - [TMS320](#tms320)
+        - [Example](#example-10)
+    - [TMS470](#tms470)
+  - [Data Models](#data-models)
+  - [ILP32](#ilp32)
+  - [LP64](#lp64)
+      - [Related](#related)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 
 [TOC]
 

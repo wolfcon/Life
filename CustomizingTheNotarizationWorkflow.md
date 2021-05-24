@@ -1,6 +1,20 @@
----
-title: Customizing the Notarization Workflow
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Customizing the Notarization Workflow](#customizing-the-notarization-workflow)
+  - [Overview](#overview)
+    - [Export a Package for Notarization](#export-a-package-for-notarization)
+    - [Upload Your App to the Notarization Service](#upload-your-app-to-the-notarization-service)
+    - [Check the Status of Your Request](#check-the-status-of-your-request)
+    - [Staple the Ticket to Your Distribution](#staple-the-ticket-to-your-distribution)
+    - [Ensure Your Build Server Has Network Access](#ensure-your-build-server-has-network-access)
+  - [Topics](#topics)
+    - [Xcode Archives](#xcode-archives)
+  - [See Also](#see-also)
+    - [Notarization](#notarization)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Customizing the Notarization Workflow
 

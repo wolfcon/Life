@@ -1,6 +1,19 @@
----
-title: macOS 清除 Launchpad 中的无用图标
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [macOS 清除 Launchpad 中的无用图标](#macos-%E6%B8%85%E9%99%A4-launchpad-%E4%B8%AD%E7%9A%84%E6%97%A0%E7%94%A8%E5%9B%BE%E6%A0%87)
+  - [⚠️ 首先备份找到的数据库文件, 然后再操作❗️](#-%E9%A6%96%E5%85%88%E5%A4%87%E4%BB%BD%E6%89%BE%E5%88%B0%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%87%E4%BB%B6-%E7%84%B6%E5%90%8E%E5%86%8D%E6%93%8D%E4%BD%9C%EF%B8%8F)
+  - [Terminal](#terminal)
+    - [寻找数据库文件](#%E5%AF%BB%E6%89%BE%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%87%E4%BB%B6)
+    - [查找确认删除项](#%E6%9F%A5%E6%89%BE%E7%A1%AE%E8%AE%A4%E5%88%A0%E9%99%A4%E9%A1%B9)
+    - [删除](#%E5%88%A0%E9%99%A4)
+  - [App](#app)
+    - [寻找数据库文件](#%E5%AF%BB%E6%89%BE%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%87%E4%BB%B6-1)
+    - [查找确认删除项](#%E6%9F%A5%E6%89%BE%E7%A1%AE%E8%AE%A4%E5%88%A0%E9%99%A4%E9%A1%B9-1)
+    - [删除](#%E5%88%A0%E9%99%A4-1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # macOS 清除 Launchpad 中的无用图标
 

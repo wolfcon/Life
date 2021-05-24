@@ -1,6 +1,14 @@
----
-title: Xaryu's Addons & Macros
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Xaryu's Addons & Macros](#xaryus-addons--macros)
+  - [Macros](#macros)
+  - [Addons](#addons)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 
 # Xaryu's Addons & Macros
 

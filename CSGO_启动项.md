@@ -1,6 +1,13 @@
----
-title: 启动项的奥秘
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [启动项的奥秘](#%E5%90%AF%E5%8A%A8%E9%A1%B9%E7%9A%84%E5%A5%A5%E7%A7%98)
+  - [预加载一部分配置命令](#%E9%A2%84%E5%8A%A0%E8%BD%BD%E4%B8%80%E9%83%A8%E5%88%86%E9%85%8D%E7%BD%AE%E5%91%BD%E4%BB%A4)
+    - [其他方法](#%E5%85%B6%E4%BB%96%E6%96%B9%E6%B3%95)
+  - [配置启动参数](#%E9%85%8D%E7%BD%AE%E5%90%AF%E5%8A%A8%E5%8F%82%E6%95%B0)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 [TOC]
 

@@ -1,7 +1,21 @@
----
-title: 生物识别验证
-toc: true
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [生物识别验证](#%E7%94%9F%E7%89%A9%E8%AF%86%E5%88%AB%E9%AA%8C%E8%AF%81)
+  - [简介](#%E7%AE%80%E4%BB%8B)
+    - [NSFaceIDUsageDescription](#nsfaceidusagedescription)
+    - [Biometrics](#biometrics)
+  - [LocalAuthentication](#localauthentication)
+    - [LAContext](#lacontext)
+      - [func canEvaluatePolicy](#func-canevaluatepolicy)
+      - [func evaluatePolicy](#func-evaluatepolicy)
+        - [死锁问题](#%E6%AD%BB%E9%94%81%E9%97%AE%E9%A2%98)
+        - [连续验证失败!](#%E8%BF%9E%E7%BB%AD%E9%AA%8C%E8%AF%81%E5%A4%B1%E8%B4%A5)
+      - [var biometryType](#var-biometrytype)
+    - [LAError](#laerror)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # 生物识别验证
 

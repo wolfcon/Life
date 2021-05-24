@@ -1,6 +1,32 @@
----
-title: 常识 - USB 与 PS/2 键盘之间的接口区别 (转 - 编辑版)
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [常识 - USB 与 PS/2 键盘之间的接口区别 (转 - 编辑版)](#%E5%B8%B8%E8%AF%86---usb-%E4%B8%8E-ps2-%E9%94%AE%E7%9B%98%E4%B9%8B%E9%97%B4%E7%9A%84%E6%8E%A5%E5%8F%A3%E5%8C%BA%E5%88%AB-%E8%BD%AC---%E7%BC%96%E8%BE%91%E7%89%88)
+  - [介绍](#%E4%BB%8B%E7%BB%8D)
+    - [USB 键盘](#usb-%E9%94%AE%E7%9B%98)
+    - [PS/2 键盘](#ps2-%E9%94%AE%E7%9B%98)
+    - [小结](#%E5%B0%8F%E7%BB%93)
+  - [延伸阅读](#%E5%BB%B6%E4%BC%B8%E9%98%85%E8%AF%BB)
+    - [为什么 USB 键盘会有键冲而 PS2 的键盘能全键无冲？](#%E4%B8%BA%E4%BB%80%E4%B9%88-usb-%E9%94%AE%E7%9B%98%E4%BC%9A%E6%9C%89%E9%94%AE%E5%86%B2%E8%80%8C-ps2-%E7%9A%84%E9%94%AE%E7%9B%98%E8%83%BD%E5%85%A8%E9%94%AE%E6%97%A0%E5%86%B2)
+      - [电路基本常识：输出与输入](#%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E5%B8%B8%E8%AF%86%E8%BE%93%E5%87%BA%E4%B8%8E%E8%BE%93%E5%85%A5)
+        - [首先要讲讲电路的通断。](#%E9%A6%96%E5%85%88%E8%A6%81%E8%AE%B2%E8%AE%B2%E7%94%B5%E8%B7%AF%E7%9A%84%E9%80%9A%E6%96%AD)
+        - [你压住不耐烦，看到这里，心想，这他妈的和键盘有毛的关系？](#%E4%BD%A0%E5%8E%8B%E4%BD%8F%E4%B8%8D%E8%80%90%E7%83%A6%E7%9C%8B%E5%88%B0%E8%BF%99%E9%87%8C%E5%BF%83%E6%83%B3%E8%BF%99%E4%BB%96%E5%A6%88%E7%9A%84%E5%92%8C%E9%94%AE%E7%9B%98%E6%9C%89%E6%AF%9B%E7%9A%84%E5%85%B3%E7%B3%BB)
+        - [对，这就是键盘按键接通的原理。](#%E5%AF%B9%E8%BF%99%E5%B0%B1%E6%98%AF%E9%94%AE%E7%9B%98%E6%8C%89%E9%94%AE%E6%8E%A5%E9%80%9A%E7%9A%84%E5%8E%9F%E7%90%86)
+      - [主控芯片与矩阵设计](#%E4%B8%BB%E6%8E%A7%E8%8A%AF%E7%89%87%E4%B8%8E%E7%9F%A9%E9%98%B5%E8%AE%BE%E8%AE%A1)
+        - [始末](#%E5%A7%8B%E6%9C%AB)
+        - [这样看起来不错，但还有个问题：主控芯片是怎么“知道”所有键的状态的？](#%E8%BF%99%E6%A0%B7%E7%9C%8B%E8%B5%B7%E6%9D%A5%E4%B8%8D%E9%94%99%E4%BD%86%E8%BF%98%E6%9C%89%E4%B8%AA%E9%97%AE%E9%A2%98%E4%B8%BB%E6%8E%A7%E8%8A%AF%E7%89%87%E6%98%AF%E6%80%8E%E4%B9%88%E7%9F%A5%E9%81%93%E6%89%80%E6%9C%89%E9%94%AE%E7%9A%84%E7%8A%B6%E6%80%81%E7%9A%84)
+      - [三键冲突：矩阵的麻烦](#%E4%B8%89%E9%94%AE%E5%86%B2%E7%AA%81%E7%9F%A9%E9%98%B5%E7%9A%84%E9%BA%BB%E7%83%A6)
+      - [无冲突的技术本源](#%E6%97%A0%E5%86%B2%E7%AA%81%E7%9A%84%E6%8A%80%E6%9C%AF%E6%9C%AC%E6%BA%90)
+        - [这里要介绍一个美妙的电气元件——【二极管】。](#%E8%BF%99%E9%87%8C%E8%A6%81%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%AA%E7%BE%8E%E5%A6%99%E7%9A%84%E7%94%B5%E6%B0%94%E5%85%83%E4%BB%B6%E4%BA%8C%E6%9E%81%E7%AE%A1)
+        - [那么这个特点对我们具体有什么帮助呢？](#%E9%82%A3%E4%B9%88%E8%BF%99%E4%B8%AA%E7%89%B9%E7%82%B9%E5%AF%B9%E6%88%91%E4%BB%AC%E5%85%B7%E4%BD%93%E6%9C%89%E4%BB%80%E4%B9%88%E5%B8%AE%E5%8A%A9%E5%91%A2)
+        - [至于为什么无冲突键盘基本都是机械键盘](#%E8%87%B3%E4%BA%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A0%E5%86%B2%E7%AA%81%E9%94%AE%E7%9B%98%E5%9F%BA%E6%9C%AC%E9%83%BD%E6%98%AF%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98)
+      - [USB永远的痛](#usb%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%97%9B)
+        - [看来问题就出在USB接口上了。](#%E7%9C%8B%E6%9D%A5%E9%97%AE%E9%A2%98%E5%B0%B1%E5%87%BA%E5%9C%A8usb%E6%8E%A5%E5%8F%A3%E4%B8%8A%E4%BA%86)
+        - [发现问题所在了吧？](#%E5%8F%91%E7%8E%B0%E9%97%AE%E9%A2%98%E6%89%80%E5%9C%A8%E4%BA%86%E5%90%A7)
+      - [总结](#%E6%80%BB%E7%BB%93)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # 常识 - USB 与 PS/2 键盘之间的接口区别 (转 - 编辑版)
 

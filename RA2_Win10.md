@@ -1,6 +1,26 @@
----
-title: Origin红警2（含尤里的复仇）的Win10补丁和汉化（简体中文版）
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [老游戏通用 ddraw.dll](#%E8%80%81%E6%B8%B8%E6%88%8F%E9%80%9A%E7%94%A8-ddrawdll)
+  - [使用方式](#%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F)
+  - [快捷键](#%E5%BF%AB%E6%8D%B7%E9%94%AE)
+  - [支持很多老游戏](#%E6%94%AF%E6%8C%81%E5%BE%88%E5%A4%9A%E8%80%81%E6%B8%B8%E6%88%8F)
+- [Origin红警2（含尤里的复仇）的Win10补丁和汉化（简体中文版）- Win10 黑屏补丁](#origin%E7%BA%A2%E8%AD%A62%E5%90%AB%E5%B0%A4%E9%87%8C%E7%9A%84%E5%A4%8D%E4%BB%87%E7%9A%84win10%E8%A1%A5%E4%B8%81%E5%92%8C%E6%B1%89%E5%8C%96%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%89%88--win10-%E9%BB%91%E5%B1%8F%E8%A1%A5%E4%B8%81)
+  - [🧻 下载所需文件复制并替换 *不需要全部都下载, 按需即可*](#%F0%9F%A7%BB-%E4%B8%8B%E8%BD%BD%E6%89%80%E9%9C%80%E6%96%87%E4%BB%B6%E5%A4%8D%E5%88%B6%E5%B9%B6%E6%9B%BF%E6%8D%A2-%E4%B8%8D%E9%9C%80%E8%A6%81%E5%85%A8%E9%83%A8%E9%83%BD%E4%B8%8B%E8%BD%BD-%E6%8C%89%E9%9C%80%E5%8D%B3%E5%8F%AF)
+  - [🔧 修改 exe 可执行程序的兼容性属性](#-%E4%BF%AE%E6%94%B9-exe-%E5%8F%AF%E6%89%A7%E8%A1%8C%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%85%BC%E5%AE%B9%E6%80%A7%E5%B1%9E%E6%80%A7)
+  - [🎉 完结撒花](#-%E5%AE%8C%E7%BB%93%E6%92%92%E8%8A%B1)
+  - [PS：⚠️](#ps)
+  - [后记: 补丁中的应用程序是原版程序，使用了改渲染的工具修改了红警的渲染方式，](#%E5%90%8E%E8%AE%B0-%E8%A1%A5%E4%B8%81%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%98%AF%E5%8E%9F%E7%89%88%E7%A8%8B%E5%BA%8F%E4%BD%BF%E7%94%A8%E4%BA%86%E6%94%B9%E6%B8%B2%E6%9F%93%E7%9A%84%E5%B7%A5%E5%85%B7%E4%BF%AE%E6%94%B9%E4%BA%86%E7%BA%A2%E8%AD%A6%E7%9A%84%E6%B8%B2%E6%9F%93%E6%96%B9%E5%BC%8F)
+- [Command & Conquer Graphics Patcher](#command--conquer-graphics-patcher)
+  - [Which games can be patched?](#which-games-can-be-patched)
+  - [How to use](#how-to-use)
+  - [Background](#background)
+  - [Credits](#credits)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 
 [TOC]
 

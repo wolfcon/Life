@@ -1,6 +1,21 @@
----
-title: Signing Commits with GPG
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Signing Commits with GPG](#signing-commits-with-gpg)
+  - [GPG](#gpg)
+    - [Resource](#resource)
+    - [Generating a new GPG key by using command line](#generating-a-new-gpg-key-by-using-command-line)
+      - [List GPG keys for our use](#list-gpg-keys-for-our-use)
+      - [Printing PGP Public key](#printing-pgp-public-key)
+      - [Adding a new GPG key to your platform](#adding-a-new-gpg-key-to-your-platform)
+    - [Generating GPG key in Client](#generating-gpg-key-in-client)
+  - [Configure Git Client](#configure-git-client)
+    - [Telling Git about your GPG key](#telling-git-about-your-gpg-key)
+    - [Telling Git about your X.509 key](#telling-git-about-your-x509-key)
+  - [Reference](#reference)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Signing Commits with GPG
 

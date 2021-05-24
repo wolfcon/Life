@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [魔兽世界插件开发之版本判断](#%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B9%8B%E7%89%88%E6%9C%AC%E5%88%A4%E6%96%AD)
+  - [历史](#%E5%8E%86%E5%8F%B2)
+  - [方案](#%E6%96%B9%E6%A1%88)
+    - [分 2 个分支来进行开发](#%E5%88%86-2-%E4%B8%AA%E5%88%86%E6%94%AF%E6%9D%A5%E8%BF%9B%E8%A1%8C%E5%BC%80%E5%8F%91)
+    - [采用一套代码](#%E9%87%87%E7%94%A8%E4%B8%80%E5%A5%97%E4%BB%A3%E7%A0%81)
+  - [WOW_PROJECT_ID](#wow_project_id)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 title: 魔兽世界插件开发之版本判断
 toc: true

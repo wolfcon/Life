@@ -1,6 +1,15 @@
----
-title: 万恶的 DNS 污染
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [万恶的 DNS 污染](#%E4%B8%87%E6%81%B6%E7%9A%84-dns-%E6%B1%A1%E6%9F%93)
+  - [📄 简介](#-%E7%AE%80%E4%BB%8B)
+  - [✅ 解决方案](#-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
+  - [🍪 常用的 DNS 解析地址](#-%E5%B8%B8%E7%94%A8%E7%9A%84-dns-%E8%A7%A3%E6%9E%90%E5%9C%B0%E5%9D%80)
+  - [🎣 授人以鱼不如授人以渔](#-%E6%8E%88%E4%BA%BA%E4%BB%A5%E9%B1%BC%E4%B8%8D%E5%A6%82%E6%8E%88%E4%BA%BA%E4%BB%A5%E6%B8%94)
+  - [🔨 测试](#-%E6%B5%8B%E8%AF%95)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # 万恶的 DNS 污染
 

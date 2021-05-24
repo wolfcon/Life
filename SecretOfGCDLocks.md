@@ -1,6 +1,24 @@
----
-title: Secret of GCD - Locks
----
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [GCD 的㊙️之 - 🔐](#gcd-%E7%9A%84%E4%B9%8B---)
+      - [线程安全](#%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8)
+      - [Objective-C中的同步锁](#objective-c%E4%B8%AD%E7%9A%84%E5%90%8C%E6%AD%A5%E9%94%81)
+        - [同步块(synchronization block)](#%E5%90%8C%E6%AD%A5%E5%9D%97synchronization-block)
+      - [锁对象](#%E9%94%81%E5%AF%B9%E8%B1%A1)
+      - [GCD锁](#gcd%E9%94%81)
+          - [任务派发](#%E4%BB%BB%E5%8A%A1%E6%B4%BE%E5%8F%91)
+          - [队列种类](#%E9%98%9F%E5%88%97%E7%A7%8D%E7%B1%BB)
+          - [GCD队列种类](#gcd%E9%98%9F%E5%88%97%E7%A7%8D%E7%B1%BB)
+          - [以前同步锁的实现方式](#%E4%BB%A5%E5%89%8D%E5%90%8C%E6%AD%A5%E9%94%81%E7%9A%84%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F)
+          - [使用GCD串行队列来实现同步锁](#%E4%BD%BF%E7%94%A8gcd%E4%B8%B2%E8%A1%8C%E9%98%9F%E5%88%97%E6%9D%A5%E5%AE%9E%E7%8E%B0%E5%90%8C%E6%AD%A5%E9%94%81)
+          - [使用GCD并发队列来实现同步锁](#%E4%BD%BF%E7%94%A8gcd%E5%B9%B6%E5%8F%91%E9%98%9F%E5%88%97%E6%9D%A5%E5%AE%9E%E7%8E%B0%E5%90%8C%E6%AD%A5%E9%94%81)
+          - [GCD并发队列中加入栅栏](#gcd%E5%B9%B6%E5%8F%91%E9%98%9F%E5%88%97%E4%B8%AD%E5%8A%A0%E5%85%A5%E6%A0%85%E6%A0%8F)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 
 # GCD 的㊙️之 - 🔐
 
