@@ -1,17 +1,21 @@
+---
+title: macOS 基础的使用配置
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [macOS 基础的使用配置](#macos-%E5%9F%BA%E7%A1%80%E7%9A%84%E4%BD%BF%E7%94%A8%E9%85%8D%E7%BD%AE)
-  - [⚠️❗️Finder 显示隐藏文件](#%EF%B8%8Ffinder-%E6%98%BE%E7%A4%BA%E9%9A%90%E8%97%8F%E6%96%87%E4%BB%B6)
+- [macOS 基础的使用配置](#macos-基础的使用配置)
+  - [⚠️❗️Finder 显示隐藏文件](#️️finder-显示隐藏文件)
     - [Terminal](#terminal)
     - [Keyboard shortcuts](#keyboard-shortcuts)
-  - [⚠️❗️关闭 Gatekeeper - 允许任意来源的 Application](#%EF%B8%8F%E5%85%B3%E9%97%AD-gatekeeper---%E5%85%81%E8%AE%B8%E4%BB%BB%E6%84%8F%E6%9D%A5%E6%BA%90%E7%9A%84-application)
-  - [制作安装镜像 - createinstallmedia](#%E5%88%B6%E4%BD%9C%E5%AE%89%E8%A3%85%E9%95%9C%E5%83%8F---createinstallmedia)
-    - [制作 iso](#%E5%88%B6%E4%BD%9C-iso)
-  - [⚠️‼️关闭 SIP (System Integrity Protection)](#%E5%85%B3%E9%97%AD-sip-system-integrity-protection)
-    - [查询 SIP 状态](#%E6%9F%A5%E8%AF%A2-sip-%E7%8A%B6%E6%80%81)
-    - [开启/关闭](#%E5%BC%80%E5%90%AF%E5%85%B3%E9%97%AD)
+  - [⚠️❗️关闭 Gatekeeper - 允许任意来源的 Application](#️️关闭-gatekeeper---允许任意来源的-application)
+  - [制作安装镜像 - createinstallmedia](#制作安装镜像---createinstallmedia)
+    - [制作 iso](#制作-iso)
+  - [⚠️‼️关闭 SIP (System Integrity Protection)](#️️关闭-sip-system-integrity-protection)
+    - [查询 SIP 状态](#查询-sip-状态)
+    - [开启/关闭](#开启关闭)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -1,8 +1,12 @@
+---
+title: CSGO 英汉大辞典
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [CSGO 英汉大辞典](#csgo-%E8%8B%B1%E6%B1%89%E5%A4%A7%E8%BE%9E%E5%85%B8)
+- [CSGO 英汉大辞典](#csgo-英汉大辞典)
   - [A](#a)
     - [Ace：](#ace)
     - [ADADAD'ing](#adadading)
@@ -55,7 +59,7 @@
     - [Fake](#fake)
     - [Flanking](#flanking)
     - [Frag](#frag)
-    - [Flick：甩枪（主要指甩狙）](#flick%E7%94%A9%E6%9E%AA%E4%B8%BB%E8%A6%81%E6%8C%87%E7%94%A9%E7%8B%99)
+    - [Flick：甩枪（主要指甩狙）](#flick甩枪主要指甩狙)
     - [Forcebuy](#forcebuy)
     - [Framerate](#framerate)
   - [G](#g)

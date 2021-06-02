@@ -1,3 +1,7 @@
+---
+title: Lua 中的 and 和 or 的特殊用法
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**

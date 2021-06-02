@@ -1,19 +1,23 @@
+---
+title: Retina Display Resolution Setting
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
 - [Retina Display Resolution Setting](#retina-display-resolution-setting)
-  - [开启HiDPI分辨率的方法有3种](#%E5%BC%80%E5%90%AFhidpi%E5%88%86%E8%BE%A8%E7%8E%87%E7%9A%84%E6%96%B9%E6%B3%95%E6%9C%893%E7%A7%8D)
-  - [详细步骤](#%E8%AF%A6%E7%BB%86%E6%AD%A5%E9%AA%A4)
-    - [1. 启用HiDPI模式](#1-%E5%90%AF%E7%94%A8hidpi%E6%A8%A1%E5%BC%8F)
-    - [2. 检测你的显示器](#2-%E6%A3%80%E6%B5%8B%E4%BD%A0%E7%9A%84%E6%98%BE%E7%A4%BA%E5%99%A8)
-    - [3. 自定义配置文件](#3-%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
-      - [在线工具](#%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7)
-      - [自己手动加](#%E8%87%AA%E5%B7%B1%E6%89%8B%E5%8A%A8%E5%8A%A0)
-    - [4. 下载plist并复制到系统文件夹](#4-%E4%B8%8B%E8%BD%BDplist%E5%B9%B6%E5%A4%8D%E5%88%B6%E5%88%B0%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6%E5%A4%B9)
-      - [10.14 以下 (`High Sierra`)](#1014-%E4%BB%A5%E4%B8%8B-high-sierra)
-      - [10.14 以上(``Mojave` & `Catalina` ...)](#1014-%E4%BB%A5%E4%B8%8Amojave--catalina-)
-    - [5. 重启 使用RDM切换分辨率](#5-%E9%87%8D%E5%90%AF-%E4%BD%BF%E7%94%A8rdm%E5%88%87%E6%8D%A2%E5%88%86%E8%BE%A8%E7%8E%87)
+  - [开启HiDPI分辨率的方法有3种](#开启hidpi分辨率的方法有3种)
+  - [详细步骤](#详细步骤)
+    - [1. 启用HiDPI模式](#1-启用hidpi模式)
+    - [2. 检测你的显示器](#2-检测你的显示器)
+    - [3. 自定义配置文件](#3-自定义配置文件)
+      - [在线工具](#在线工具)
+      - [自己手动加](#自己手动加)
+    - [4. 下载plist并复制到系统文件夹](#4-下载plist并复制到系统文件夹)
+      - [10.14 以下 (`High Sierra`)](#1014-以下-high-sierra)
+      - [10.14 以上(``Mojave` & `Catalina` ...)](#1014-以上mojavecatalina-)
+    - [5. 重启 使用RDM切换分辨率](#5-重启-使用rdm切换分辨率)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

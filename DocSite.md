@@ -1,21 +1,25 @@
+---
+title: 文档部署系统 MkDocs
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [文档部署系统 MkDocs](#%E6%96%87%E6%A1%A3%E9%83%A8%E7%BD%B2%E7%B3%BB%E7%BB%9F-mkdocs)
-  - [官网](#%E5%AE%98%E7%BD%91)
-  - [运行机制](#%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6)
-  - [简单部署方式](#%E7%AE%80%E5%8D%95%E9%83%A8%E7%BD%B2%E6%96%B9%E5%BC%8F)
+- [文档部署系统](#文档部署系统)
+  - [MkDocs 官网](#mkdocs-官网)
+  - [运行机制](#运行机制)
+  - [简单部署方式](#简单部署方式)
     - [macOS](#macos)
       - [Homebrew](#homebrew)
-      - [手动](#%E6%89%8B%E5%8A%A8)
-    - [Windows - 待填坑](#windows---%E5%BE%85%E5%A1%AB%E5%9D%91)
-    - [Linux - 待填坑](#linux---%E5%BE%85%E5%A1%AB%E5%9D%91)
-    - [官方介绍](#%E5%AE%98%E6%96%B9%E4%BB%8B%E7%BB%8D)
-  - [使用](#%E4%BD%BF%E7%94%A8)
-    - [index.md 是首页](#indexmd-%E6%98%AF%E9%A6%96%E9%A1%B5)
-    - [配置](#%E9%85%8D%E7%BD%AE)
-      - [位置](#%E4%BD%8D%E7%BD%AE)
+      - [手动](#手动)
+    - [Windows - 待填坑](#windows---待填坑)
+    - [Linux - 待填坑](#linux---待填坑)
+    - [官方介绍](#官方介绍)
+  - [使用](#使用)
+    - [index.md 是首页](#indexmd-是首页)
+    - [配置](#配置)
+      - [位置](#位置)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

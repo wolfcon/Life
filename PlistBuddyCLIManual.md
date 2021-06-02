@@ -1,27 +1,27 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [PlistBuddy 命令行解析 Plist 工具详解](#plistbuddy-%E5%91%BD%E4%BB%A4%E8%A1%8C%E8%A7%A3%E6%9E%90-plist-%E5%B7%A5%E5%85%B7%E8%AF%A6%E8%A7%A3)
-  - [身世](#%E8%BA%AB%E4%B8%96)
-  - [栖身](#%E6%A0%96%E8%BA%AB)
-  - [简介](#%E7%AE%80%E4%BB%8B)
-    - [How to get?](#how-to-get)
-    - [How to set?](#how-to-set)
-    - [How to delete?](#how-to-delete)
-  - [总结](#%E6%80%BB%E7%BB%93)
-    - [基础命令是](#%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4%E6%98%AF)
-    - [替换掉 `Command`:](#%E6%9B%BF%E6%8D%A2%E6%8E%89-command)
-    - [替换掉 `Key or Subscript`, 也就是上面命令里的 `Entry`:](#%E6%9B%BF%E6%8D%A2%E6%8E%89-key-or-subscript-%E4%B9%9F%E5%B0%B1%E6%98%AF%E4%B8%8A%E9%9D%A2%E5%91%BD%E4%BB%A4%E9%87%8C%E7%9A%84-entry)
-    - [替换掉 `Value`:](#%E6%9B%BF%E6%8D%A2%E6%8E%89-value)
-    - [替换掉 Type:](#%E6%9B%BF%E6%8D%A2%E6%8E%89-type)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ---
 title: PlistBuddy 命令行解析 Plist 工具详解
 toc: true
 ---
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [PlistBuddy 命令行解析 Plist 工具详解](#plistbuddy-命令行解析-plist-工具详解)
+  - [身世](#身世)
+  - [栖身](#栖身)
+  - [简介](#简介)
+    - [How to get?](#how-to-get)
+    - [How to set?](#how-to-set)
+    - [How to delete?](#how-to-delete)
+  - [总结](#总结)
+    - [基础命令是](#基础命令是)
+    - [替换掉 `Command`:](#替换掉-command)
+    - [替换掉 `Key or Subscript`, 也就是上面命令里的 `Entry`:](#替换掉-key-or-subscript-也就是上面命令里的-entry)
+    - [替换掉 `Value`:](#替换掉-value)
+    - [替换掉 Type:](#替换掉-type)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # PlistBuddy 命令行解析 Plist 工具详解
 

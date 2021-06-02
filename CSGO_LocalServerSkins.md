@@ -1,3 +1,7 @@
+---
+title: CSGO 架设本地服务器 - 专用检视各类皮肤
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**

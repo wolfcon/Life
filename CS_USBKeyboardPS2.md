@@ -1,3 +1,7 @@
+---
+title: 常识 - USB 与 PS/2 键盘之间的接口区别 (转 - 编辑版)
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**

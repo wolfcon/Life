@@ -1,3 +1,8 @@
+---
+title: 魔兽世界插件开发之版本判断
+toc: true
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -11,10 +16,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
----
-title: 魔兽世界插件开发之版本判断
-toc: true
----
 
 # 魔兽世界插件开发之版本判断
 

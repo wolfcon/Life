@@ -1,12 +1,16 @@
+---
+title: Objective-C 关键字修饰符
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Objective-C 关键字修饰符](#objective-c-%E5%85%B3%E9%94%AE%E5%AD%97%E4%BF%AE%E9%A5%B0%E7%AC%A6)
-- [类型修饰符](#%E7%B1%BB%E5%9E%8B%E4%BF%AE%E9%A5%B0%E7%AC%A6)
+- [Objective-C 关键字修饰符](#objective-c-关键字修饰符)
+- [类型修饰符](#类型修饰符)
   - [`__kindof`](#__kindof)
-    - [一般是配合泛型来一起使用](#%E4%B8%80%E8%88%AC%E6%98%AF%E9%85%8D%E5%90%88%E6%B3%9B%E5%9E%8B%E6%9D%A5%E4%B8%80%E8%B5%B7%E4%BD%BF%E7%94%A8)
-    - [当然也可以不配合泛型来用](#%E5%BD%93%E7%84%B6%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%B8%8D%E9%85%8D%E5%90%88%E6%B3%9B%E5%9E%8B%E6%9D%A5%E7%94%A8)
+    - [一般是配合泛型来一起使用](#一般是配合泛型来一起使用)
+    - [当然也可以不配合泛型来用](#当然也可以不配合泛型来用)
   - [](#)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

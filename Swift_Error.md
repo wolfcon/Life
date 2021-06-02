@@ -1,13 +1,17 @@
+---
+title: Swift 之 Error
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
 - [Swift - Error](#swift---error)
-  - [Error 并不是简单的 NSError 换层皮](#error-%E5%B9%B6%E4%B8%8D%E6%98%AF%E7%AE%80%E5%8D%95%E7%9A%84-nserror-%E6%8D%A2%E5%B1%82%E7%9A%AE)
-  - [要存储 Error 的额外信息怎么办](#%E8%A6%81%E5%AD%98%E5%82%A8-error-%E7%9A%84%E9%A2%9D%E5%A4%96%E4%BF%A1%E6%81%AF%E6%80%8E%E4%B9%88%E5%8A%9E)
+  - [Error 并不是简单的 NSError 换层皮](#error-并不是简单的-nserror-换层皮)
+  - [要存储 Error 的额外信息怎么办](#要存储-error-的额外信息怎么办)
     - [enum](#enum)
     - [struct (class)](#struct-class)
-  - [如何 print / 使用 UI 展示错误信息](#%E5%A6%82%E4%BD%95-print--%E4%BD%BF%E7%94%A8-ui-%E5%B1%95%E7%A4%BA%E9%94%99%E8%AF%AF%E4%BF%A1%E6%81%AF)
+  - [如何 print / 使用 UI 展示错误信息](#如何-print--使用-ui-展示错误信息)
     - [LocalizedError](#localizederror)
     - [CustomStringConvertible / CustomDebugStringConvertible /](#customstringconvertible--customdebugstringconvertible-)
 

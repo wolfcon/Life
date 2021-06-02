@@ -1,12 +1,16 @@
+---
+title: Network Link Conditioner
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
 - [Network Link Conditioner](#network-link-conditioner)
-  - [更新](#%E6%9B%B4%E6%96%B0)
-  - [位置](#%E4%BD%8D%E7%BD%AE)
-  - [作用](#%E4%BD%9C%E7%94%A8)
-  - [怎么用](#%E6%80%8E%E4%B9%88%E7%94%A8)
+  - [更新](#更新)
+  - [位置](#位置)
+  - [作用](#作用)
+  - [怎么用](#怎么用)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
