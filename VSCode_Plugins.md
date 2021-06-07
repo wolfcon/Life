@@ -6,7 +6,7 @@ title: VSCode 的各种实用(沙雕)插件合集
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [VSCode 的各种实用(沙雕)插件合集](#vscode-的各种实用沙雕插件合集)
+- [VSCode 的各种实用(沙雕)插件合集](#vscode-%E7%9A%84%E5%90%84%E7%A7%8D%E5%AE%9E%E7%94%A8%E6%B2%99%E9%9B%95%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

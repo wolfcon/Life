@@ -6,9 +6,9 @@ title: Bogon
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [macOS 的终端变成 bogon](#macos-的终端变成-bogon)
-  - [怨念](#怨念)
-  - [破](#破)
+- [macOS 的终端变成 bogon](#macos-%E7%9A%84%E7%BB%88%E7%AB%AF%E5%8F%98%E6%88%90-bogon)
+  - [怨念](#%E6%80%A8%E5%BF%B5)
+  - [破](#%E7%A0%B4)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -6,10 +6,10 @@ title: SonyTV 与 Windows10 共享文件
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [SonyTV 与 Windows10 共享文件](#sonytv-与-windows10-共享文件)
+- [SonyTV 与 Windows10 共享文件](#sonytv-%E4%B8%8E-windows10-%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6)
   - [Windows 10](#windows-10)
   - [Sony TV](#sony-tv)
-  - [重中之重](#重中之重)
+  - [重中之重](#%E9%87%8D%E4%B8%AD%E4%B9%8B%E9%87%8D)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

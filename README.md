@@ -1,36 +1,4 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [Table of Contents](#table-of-contents)
-  - [Development](#development)
-    - [iOS / macOS / tvOS / watchOS](#ios--macos--tvos--watchos)
-    - [LocalStorage](#localstorage)
-      - [Realm](#realm)
-    - [Swift](#swift)
-    - [Git](#git)
-    - [Debug](#debug)
-    - [Lua](#lua)
-  - [Windows](#windows)
-    - [General](#general)
-  - [Linux & macOS](#linux--macos)
-    - [General](#general-1)
-    - [Certificate](#certificate)
-  - [Management](#management)
-  - [Others](#others)
-  - [Hardware](#hardware)
-    - [Keyboard](#keyboard)
-    - [Display](#display)
-    - [Game](#game)
-      - [CSGO](#csgo)
-      - [WoW](#wow)
-        - [Development](#development-1)
-      - [C&C RedAlert](#cc-redalert)
-  - [Medical](#medical)
-  - [Driving Technique](#driving-technique)
-  - [Resources](#resources)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DOCTOC SKIP -->
 
 [TOC]
 
@@ -52,6 +20,7 @@
 - [Customizing the Notarization Workflow](CustomizingTheNotarizationWorkflow.md)
 - [UITests Failure - Failed to scroll to visible (by AX action) Button](UITestsFailure.md)
 - [iOS Simulator 101](iOS_Simulator101.md)
+- [Let App Support Files](iOS_LetAppSupportFiles.md)
 
 ### LocalStorage
 

@@ -6,9 +6,9 @@ title: Excel 保护密码破解
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Excel 保护密码💣](#excel-保护密码)
-  - [录制宏, 並且运行](#录制宏-並且运行)
-  - [等待, 即可](#等待-即可)
+- [Excel 保护密码💣](#excel-%E4%BF%9D%E6%8A%A4%E5%AF%86%E7%A0%81)
+  - [录制宏, 並且运行](#%E5%BD%95%E5%88%B6%E5%AE%8F-%E4%B8%A6%E4%B8%94%E8%BF%90%E8%A1%8C)
+  - [等待, 即可](#%E7%AD%89%E5%BE%85-%E5%8D%B3%E5%8F%AF)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

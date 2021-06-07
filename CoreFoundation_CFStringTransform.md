@@ -7,15 +7,15 @@ title: CoreFoundation - String Transform
 **Table of Contents**
 
 - [CoreFoundation - String Transform](#corefoundation---string-transform)
-  - [前言](#前言)
+  - [前言](#%E5%89%8D%E8%A8%80)
   - [CFString](#cfstring)
-    - [打开 Playground.](#打开-playground)
-  - [任意字符转成拉丁字符 (`有更深层的意义`)](#任意字符转成拉丁字符-有更深层的意义)
-    - [深层意义](#深层意义)
-  - [将普通话转写为拼音](#将普通话转写为拼音)
-  - [将平假转写为片假](#将平假转写为片假)
-  - [其他的就不做赘述了.](#其他的就不做赘述了)
-  - [PS: 其实还有个比较重要的就是 Unicode](#ps-其实还有个比较重要的就是-unicode)
+    - [打开 Playground.](#%E6%89%93%E5%BC%80-playground)
+  - [任意字符转成拉丁字符 (`有更深层的意义`)](#%E4%BB%BB%E6%84%8F%E5%AD%97%E7%AC%A6%E8%BD%AC%E6%88%90%E6%8B%89%E4%B8%81%E5%AD%97%E7%AC%A6-%E6%9C%89%E6%9B%B4%E6%B7%B1%E5%B1%82%E7%9A%84%E6%84%8F%E4%B9%89)
+    - [深层意义](#%E6%B7%B1%E5%B1%82%E6%84%8F%E4%B9%89)
+  - [将普通话转写为拼音](#%E5%B0%86%E6%99%AE%E9%80%9A%E8%AF%9D%E8%BD%AC%E5%86%99%E4%B8%BA%E6%8B%BC%E9%9F%B3)
+  - [将平假转写为片假](#%E5%B0%86%E5%B9%B3%E5%81%87%E8%BD%AC%E5%86%99%E4%B8%BA%E7%89%87%E5%81%87)
+  - [其他的就不做赘述了.](#%E5%85%B6%E4%BB%96%E7%9A%84%E5%B0%B1%E4%B8%8D%E5%81%9A%E8%B5%98%E8%BF%B0%E4%BA%86)
+  - [PS: 其实还有个比较重要的就是 Unicode](#ps-%E5%85%B6%E5%AE%9E%E8%BF%98%E6%9C%89%E4%B8%AA%E6%AF%94%E8%BE%83%E9%87%8D%E8%A6%81%E7%9A%84%E5%B0%B1%E6%98%AF-unicode)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -6,10 +6,10 @@ title: 我常用的好软件
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [我常用的好软件](#我常用的好软件)
-  - [fish - command line shell 符号高亮, 自动补全提示等等](#fish---command-line-shell-符号高亮-自动补全提示等等)
-  - [ScreenToLayers - 图层截屏软件](#screentolayers---图层截屏软件)
-  - [Monodraw - 简单流程画图软件(植入注释的 ASCII 流程图) - $](#monodraw---简单流程画图软件植入注释的-ascii-流程图---)
+- [我常用的好软件](#%E6%88%91%E5%B8%B8%E7%94%A8%E7%9A%84%E5%A5%BD%E8%BD%AF%E4%BB%B6)
+  - [fish - command line shell 符号高亮, 自动补全提示等等](#fish---command-line-shell-%E7%AC%A6%E5%8F%B7%E9%AB%98%E4%BA%AE-%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8%E6%8F%90%E7%A4%BA%E7%AD%89%E7%AD%89)
+  - [ScreenToLayers - 图层截屏软件](#screentolayers---%E5%9B%BE%E5%B1%82%E6%88%AA%E5%B1%8F%E8%BD%AF%E4%BB%B6)
+  - [Monodraw - 简单流程画图软件(植入注释的 ASCII 流程图) - $](#monodraw---%E7%AE%80%E5%8D%95%E6%B5%81%E7%A8%8B%E7%94%BB%E5%9B%BE%E8%BD%AF%E4%BB%B6%E6%A4%8D%E5%85%A5%E6%B3%A8%E9%87%8A%E7%9A%84-ascii-%E6%B5%81%E7%A8%8B%E5%9B%BE---)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

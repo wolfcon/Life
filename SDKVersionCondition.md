@@ -6,16 +6,16 @@ title: 宏命令判断检测 SDK 版本
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [宏命令判断检测 SDK 版本](#宏命令判断检测-sdk-版本)
-  - [前言](#前言)
-  - [前缀类型](#前缀类型)
+- [宏命令判断检测 SDK 版本](#%E5%AE%8F%E5%91%BD%E4%BB%A4%E5%88%A4%E6%96%AD%E6%A3%80%E6%B5%8B-sdk-%E7%89%88%E6%9C%AC)
+  - [前言](#%E5%89%8D%E8%A8%80)
+  - [前缀类型](#%E5%89%8D%E7%BC%80%E7%B1%BB%E5%9E%8B)
     - [__MAC_OS_X](#__mac_os_x)
     - [__IPHONE_OS](#__iphone_os)
-  - [后缀类型](#后缀类型)
+  - [后缀类型](#%E5%90%8E%E7%BC%80%E7%B1%BB%E5%9E%8B)
     - [_VERSION_MIN_REQUIRED](#_version_min_required)
     - [_VERSION_MAX_ALLOWED](#_version_max_allowed)
-  - [用法](#用法)
-  - [官方解释](#官方解释)
+  - [用法](#%E7%94%A8%E6%B3%95)
+  - [官方解释](#%E5%AE%98%E6%96%B9%E8%A7%A3%E9%87%8A)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

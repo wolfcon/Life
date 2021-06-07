@@ -9,7 +9,7 @@ title: Watchdog - Exception Codes: 0x8badf00d
 - [Watchdog - Exception Codes: 0x8badf00d](#watchdog---exception-codes-0x8badf00d)
   - [Exception Codes: 0x8badf00d](#exception-codes-0x8badf00d)
   - [Watchdog termination](#watchdog-termination)
-    - [`watchdog` 会监测应用的性能.](#watchdog-会监测应用的性能)
+    - [`watchdog` 会监测应用的性能.](#watchdog-%E4%BC%9A%E7%9B%91%E6%B5%8B%E5%BA%94%E7%94%A8%E7%9A%84%E6%80%A7%E8%83%BD)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

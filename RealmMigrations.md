@@ -6,7 +6,7 @@ title: Realm 数据库迁移
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Realm 数据库迁移 (官方文档)](#realm-数据库迁移-官方文档)
+- [Realm 数据库迁移 (官方文档)](#realm-%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%81%E7%A7%BB-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
     - [Local migrations](#local-migrations)
       - [Updating values](#updating-values)
       - [Renaming properties](#renaming-properties)

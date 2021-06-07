@@ -7,8 +7,8 @@ toc: ture
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Xcode 账户失效问题](#xcode-账户失效问题)
-  - [解决方法](#解决方法)
+- [Xcode 账户失效问题](#xcode-%E8%B4%A6%E6%88%B7%E5%A4%B1%E6%95%88%E9%97%AE%E9%A2%98)
+  - [解决方法](#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

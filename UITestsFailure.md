@@ -7,10 +7,10 @@ title: UITest Failure - Failed to scroll to visible (by AX action) Button
 **Table of Contents**
 
 - [UITests Failure - Failed to scroll to visible (by AX action) Button](#uitests-failure---failed-to-scroll-to-visible-by-ax-action-button)
-  - [如何出现的](#如何出现的)
-  - [如何解决](#如何解决)
-    - [那么我们如何禁用](#那么我们如何禁用)
-    - [解决方案](#解决方案)
+  - [如何出现的](#%E5%A6%82%E4%BD%95%E5%87%BA%E7%8E%B0%E7%9A%84)
+  - [如何解决](#%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3)
+    - [那么我们如何禁用](#%E9%82%A3%E4%B9%88%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E7%A6%81%E7%94%A8)
+    - [解决方案](#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
       - [Arguments](#arguments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

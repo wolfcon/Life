@@ -6,11 +6,11 @@ title: Print & DebugPrint 进阶
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Print & DebugPrint 进阶](#print--debugprint-进阶)
-  - [普通用法](#普通用法)
-    - [基本类型](#基本类型)
+- [Print & DebugPrint 进阶](#print--debugprint-%E8%BF%9B%E9%98%B6)
+  - [普通用法](#%E6%99%AE%E9%80%9A%E7%94%A8%E6%B3%95)
+    - [基本类型](#%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B)
     - [enum / struct / class](#enum--struct--class)
-  - [进阶用法](#进阶用法)
+  - [进阶用法](#%E8%BF%9B%E9%98%B6%E7%94%A8%E6%B3%95)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
