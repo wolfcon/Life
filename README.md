@@ -21,6 +21,7 @@
 - [UITests Failure - Failed to scroll to visible (by AX action) Button](UITestsFailure.md)
 - [iOS Simulator 101](iOS_Simulator101.md)
 - [Let App Support Files](iOS_LetAppSupportFiles.md)
+- [Get Rid of CocoaPods](CocoaPods_Deintegrate.md)
 
 ### LocalStorage
 
