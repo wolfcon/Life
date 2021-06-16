@@ -14,6 +14,8 @@ title: Get Rid of CocoaPods
 
 # Get Rid of CocoaPods
 
+[Official Documents](https://guides.cocoapods.org/terminal/commands.html#pod_deintegrate)
+
 ## Preparation
 
 Install 2 gems
