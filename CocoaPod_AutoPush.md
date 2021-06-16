@@ -59,7 +59,8 @@ jobs:
         env:
           COCOAPODS_TRUNK_TOKEN: ${{ secrets.COCOAPODS_TRUNK_TOKEN }}
         run: |
-          pod trunk push;pod trunk me clean-sessions --all
+          pod trunk push
+          pod trunk me clean-sessions --all
 ```
 
 Enjoy it🎉.
