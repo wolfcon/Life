@@ -1,12 +1,12 @@
 ---
-title: 万恶的 DNS 污染
+title: 万恶的 DNS 污染之 Github 等正常访问
 ---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [万恶的 DNS 污染](#%E4%B8%87%E6%81%B6%E7%9A%84-dns-%E6%B1%A1%E6%9F%93)
+- [万恶的 DNS 污染之 Github 等正常访问](#%E4%B8%87%E6%81%B6%E7%9A%84-dns-%E6%B1%A1%E6%9F%93%E4%B9%8B-github-%E7%AD%89%E6%AD%A3%E5%B8%B8%E8%AE%BF%E9%97%AE)
   - [📄 简介](#-%E7%AE%80%E4%BB%8B)
   - [✅ 解决方案](#-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
   - [🍪 常用的 DNS 解析地址](#-%E5%B8%B8%E7%94%A8%E7%9A%84-dns-%E8%A7%A3%E6%9E%90%E5%9C%B0%E5%9D%80)
@@ -15,7 +15,7 @@ title: 万恶的 DNS 污染
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# 万恶的 DNS 污染
+# 万恶的 DNS 污染之 Github 等正常访问
 
 [TOC]
 
@@ -40,29 +40,37 @@ title: 万恶的 DNS 污染
 ## 🍪 常用的 DNS 解析地址
 
 ```hosts
+# github 加速
+
+199.232.69.194      github.global.ssl.fastly.net
+
+# github
+140.82.113.4        github.com
+140.82.113.5        api.github.com
+
 # 简单粗暴的 github 图片头像解析地址
 
-199.232.96.133      raw.githubusercontent.com
-199.232.96.133      gist.githubusercontent.com
-199.232.96.133      cloud.githubusercontent.com
-199.232.96.133      camo.githubusercontent.com
-199.232.96.133      media.githubusercontent.com
-199.232.96.133      avatars.githubusercontent.com
-199.232.96.133      avatars0.githubusercontent.com
-199.232.96.133      avatars1.githubusercontent.com
-199.232.96.133      avatars2.githubusercontent.com
-199.232.96.133      avatars3.githubusercontent.com
-199.232.96.133      avatars4.githubusercontent.com
-199.232.96.133      avatars5.githubusercontent.com
-199.232.96.133      avatars6.githubusercontent.com
-199.232.96.133      avatars7.githubusercontent.com
-199.232.96.133      avatars8.githubusercontent.com
-199.232.96.133      user-images.githubusercontent.com
+185.199.108.133      raw.githubusercontent.com
+185.199.108.133      gist.githubusercontent.com
+185.199.108.133      cloud.githubusercontent.com
+185.199.108.133      camo.githubusercontent.com
+185.199.108.133      media.githubusercontent.com
+185.199.108.133      avatars.githubusercontent.com
+185.199.108.133      avatars0.githubusercontent.com
+185.199.108.133      avatars1.githubusercontent.com
+185.199.108.133      avatars2.githubusercontent.com
+185.199.108.133      avatars3.githubusercontent.com
+185.199.108.133      avatars4.githubusercontent.com
+185.199.108.133      avatars5.githubusercontent.com
+185.199.108.133      avatars6.githubusercontent.com
+185.199.108.133      avatars7.githubusercontent.com
+185.199.108.133      avatars8.githubusercontent.com
+185.199.108.133      user-images.githubusercontent.com
 
 # 动漫花园的资源站
-104.25.61.106				share.dmhy.org
-104.25.62.106				share.dmhy.org
-172.67.98.15				share.dmhy.org
+104.25.61.106								share.dmhy.org
+104.25.62.106								share.dmhy.org
+172.67.98.15								share.dmhy.org
 2606:4700:20::6819:3d6a			share.dmhy.org
 2606:4700:20::6819:3e6a			share.dmhy.org
 2606:4700:20::ac43:620f			share.dmhy.org
