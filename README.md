@@ -23,6 +23,7 @@
 - [Let App Support Files](iOS_LetAppSupportFiles.md)
 - [Get Rid of CocoaPods](CocoaPods_Deintegrate.md)
 - [Auto Push to CocoaPod Trunk](CocoaPod_AutoPush.md)
+- [Shortcut of NSMenuItem and NSButton](macOS_Shortcut4MenuItem+Button.md)
 
 ### LocalStorage
 
