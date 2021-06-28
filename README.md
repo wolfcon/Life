@@ -127,6 +127,7 @@
 ## Medical
 
 - [感冒的轻症自我用药](Disease_Medicine4Cold.md)
+- [🦷的自我修养](Disease_Tooth.md)
 
 ## Driving Technique
 
