@@ -16,6 +16,7 @@ title: macOS 基础的使用配置
   - [⚠️‼️关闭 SIP (System Integrity Protection)](#%E5%85%B3%E9%97%AD-sip-system-integrity-protection)
     - [查询 SIP 状态](#%E6%9F%A5%E8%AF%A2-sip-%E7%8A%B6%E6%80%81)
     - [开启/关闭](#%E5%BC%80%E5%90%AF%E5%85%B3%E9%97%AD)
+  - [⚠️‼️重置部署状态, 用于新建账户](#%E9%87%8D%E7%BD%AE%E9%83%A8%E7%BD%B2%E7%8A%B6%E6%80%81-%E7%94%A8%E4%BA%8E%E6%96%B0%E5%BB%BA%E8%B4%A6%E6%88%B7)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -69,5 +70,14 @@ csrutil status
 ```bash
 csrutil enable
 csrutil disable
+```
+
+## ⚠️‼️重置部署状态, 用于新建账户
+
+前提 - **需要先重启进入恢复模式**: `⌘` + `R`
+
+```bash
+rm /Volumes/Macintosh\ HD/var/db/.AppleSetupDone
+reboot
 ```
 
