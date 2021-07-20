@@ -17,6 +17,7 @@ title: Signing Commits with GPG
   - [Configure Git Client](#configure-git-client)
     - [Telling Git about your GPG key](#telling-git-about-your-gpg-key)
     - [Telling Git about your X.509 key](#telling-git-about-your-x509-key)
+    - [Configuration in SourceTree](#configuration-in-sourcetree)
   - [Reference](#reference)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -226,6 +227,12 @@ You can use [smimesign](https://github.com/github/smimesign) to sign commits and
   $ cd /path/to/my/repository
   $ git config --local user.signingkey 0ff455a2708394633e4bb2f88002e3cd80cbd76f
   ```
+
+### Configuration in SourceTree
+
+1. Go to `Preferences` -> `Advanced` 
+2. Set `GPG Program` Environment (usually in `/usr/local/bin`)
+3. Vola 🎉
 
 ## Reference
 
