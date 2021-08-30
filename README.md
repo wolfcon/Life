@@ -69,6 +69,7 @@
 - [Xcode 账户失效问题](XcodeAccountExpired.md)
 - [在 Finder 中对文件夹/文件加入 `使用 VSCode 打开`](macOS_OpenWithVSCode.md)
 - [macOS 清除 Launchpad 中的无用图标](macOS_RemoveInvalidApp.md)
+- [Oh My Zsh 的花式配置](CML_OhMyZsh.md)
 
 ### Certificate
 - [Lets Encrypt 证书配置](LetsEncrypt配置.md)
