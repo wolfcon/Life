@@ -24,6 +24,7 @@
 - [Get Rid of CocoaPods](CocoaPods_Deintegrate.md)
 - [Auto Push to CocoaPod Trunk](CocoaPod_AutoPush.md)
 - [Shortcut of NSMenuItem and NSButton](macOS_Shortcut4MenuItem+Button.md)
+- [Mac Catalyst 中强行使用不支持的 API](iOS_MacCatalystUsingUnsupportedAPI.md)
 
 ### LocalStorage
 
