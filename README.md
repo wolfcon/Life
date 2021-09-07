@@ -42,6 +42,7 @@
 
 - [Signing Commits with GPG](Git_SigningCommits.md)
 - [Shallow Clone](Git_ShallowClone.md)
+- [Orphan Branches](Git_OrphanBranches.md)
 
 ### Debug
 
