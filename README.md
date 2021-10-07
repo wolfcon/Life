@@ -90,6 +90,7 @@
 - [万恶的 DNS 污染之 Github 等正常访问](DNSCachePollution.md)
 - [Foobar2000 Lyrics](Foobar2kLyrics.md)
 - [Excel 保护密码💣](Office_ExcelProtectionCrack.md)
+- [FFmpeg Export Manual](ffmpeg_ExportManual.md)
 
 ## Hardware
 
