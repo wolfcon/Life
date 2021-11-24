@@ -49,6 +49,7 @@
 
 - [Network Link Conditioner - 网络连接调节器(调试/测试用)](NetworkLinkConditioner.md)
 - [Watchdog - Exception Codes: 0x8badf00d](8badf00d.md)
+- [Connecting Problems with devices in WiFi debugging](Xcode_ConnectingByWiFi.md)
 
 ### Lua
 - [Lua 中的 and 和 or 的特殊用法](Lua_AndOrUsage.md)
