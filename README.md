@@ -75,6 +75,7 @@
 - [在 Finder 中对文件夹/文件加入 `使用 VSCode 打开`](macOS_OpenWithVSCode.md)
 - [macOS 清除 Launchpad 中的无用图标](macOS_RemoveInvalidApp.md)
 - [Oh My Zsh 的花式配置](CML_OhMyZsh.md)
+- [macOS 快捷修改网络共享开关](macOS_InternetSharingQuickSwitch.md)
 
 ### Certificate
 - [Lets Encrypt 证书配置](LetsEncrypt配置.md)
