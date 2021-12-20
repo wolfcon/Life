@@ -59,6 +59,7 @@
 ### General
 
 - [SonyTV Lan Share by SMB](SonyLanShareBySMB.md)
+- [Make Taskbar Transparent](Win_TaskbarTransparent.md)
 
 ## Linux & macOS 
 
