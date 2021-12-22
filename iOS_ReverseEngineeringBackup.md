@@ -7,7 +7,7 @@ date: 2021-12-22
 
 *Mar 17, 2017*
 
-*[Last Updated: December 17, 2019](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#change-log)*
+*[Last Updated: December 17, 2019](#change-log)*
 
 I’ve seen this page getting increased traffic recently, so I’ve updated it to include extra information I have about the Notes, Photos, and Calendars format, and I’ve released my improved backup information extractor tool.
 
@@ -28,22 +28,22 @@ Inside this directory, there’s a bunch of directories with 40 character filena
 ## Files List
 
 - Technical Files
-  - [Info.plist](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#infoplist)
-  - [Manifest.plist](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#manifestplist)
-  - [Status.plist](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#statusplist)
-  - [Manifest.db](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#manifestdb)
-  - [Manifest.mbdb](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#manifestmbdb)
+  - [Info.plist](#infoplist)
+  - [Manifest.plist](#manifestplist)
+  - [Status.plist](#statusplist)
+  - [Manifest.db](#manifestdb)
+  - [Manifest.mbdb](#manifestmbdb)
 - Useful Files
-  - [Messages](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#messages)
-  - [Address Book](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#address-book)
-  - [Call Log](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#call-log)
-  - [Voicemails](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#voicemails)
-  - [Old Notes](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#old-notes)
-  - [Notes](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#notes)
-  - [Web History](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#web-history)
-  - [Photos](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#photos)
-  - [WiFi History](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#wifi)
-  - [Calendars](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#calendars)
+  - [Messages](#messages)
+  - [Address Book](#address-book)
+  - [Call Log](#call-log)
+  - [Voicemails](#voicemails)
+  - [Old Notes](#old-notes)
+  - [Notes](#notes)
+  - [Web History](#web-history)
+  - [Photos](#photos)
+  - [WiFi History](#wifi)
+  - [Calendars](#calendars)
 
 ## “Manifest Files”
 
@@ -545,7 +545,7 @@ ibackuptool -b <UDID> --report voicemail-files --export .
 
 - File: notes.sqlite `ca3bc056d4da0bbf88b5fb3be254f3b7147e639c`
 - This information is from an iOS 11 backup.
-- See [Notes](https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#notes) for the newer format.
+- See [Notes](#notes) for the newer format.
 - It appears to be a database from an iOS upgrade containing notes that no longer exist but the database was not deleted and (appears to) be no longer used.
 - Stores Old Notes.app notes
 
