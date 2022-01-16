@@ -8,9 +8,10 @@ date: 2021-12-20
 ## Windows 10
 
 1. `Personalization` -> `Colors` -> `More options` -> `Transparency effects` -> Enabled
-2. `Win` + `R` -> open `regedit` 
-3. Under the path `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced`, create a new `DWROD (32-bit) Value` and name it `TaskbarAcrylicOpacity`, which value is in range `0-255`. `0` is represented fully transparent(aka: alpha = 0). `255` means opaque (aka: alpha = 1)
-4. Restart `Windows Explorer` process in Task Manager. 🎉
+2. `Personalization` -> `Colors` -> `Show accent color on the following surfaces` -> Deselect `Start, taskbar, and action center`
+3. `Win` + `R` -> open `regedit` 
+4. Under the path `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced`, create a new `DWROD (32-bit) Value` and name it `TaskbarAcrylicOpacity`, which value is in range `0-255`. `0` is represented fully transparent(aka: alpha = 0). `255` means opaque (aka: alpha = 1)
+5. Restart `Windows Explorer` process in Task Manager. 🎉
 
 > Maybe should set
 >
