@@ -12,7 +12,7 @@
   - [Lua](#lua)
 - [Windows](#windows)
   - [General](#general)
-- [Linux & macOS](#linux--macos)
+- [Linux \& macOS](#linux--macos)
   - [General](#general-1)
   - [Certificate](#certificate)
 - [Management](#management)
@@ -24,11 +24,10 @@
     - [CSGO](#csgo)
     - [WoW](#wow)
       - [Development](#development-1)
-    - [C&C RedAlert](#cc-redalert)
+    - [C\&C RedAlert](#cc-redalert)
 - [Medical](#medical)
 - [Driving Technique](#driving-technique)
 - [Resources](#resources)
-
 
 ## Development
 
@@ -69,6 +68,8 @@
 - [Signing Commits with GPG](Git_SigningCommits.md)
 - [Shallow Clone](Git_ShallowClone.md)
 - [Orphan Branches](Git_OrphanBranches.md)
+- [Git 工作量统计](Git_log.md)
+- [Recover Lost Stashes or Commits](Git_RecoverLost.md)
 
 ### Debug
 
