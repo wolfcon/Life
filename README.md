@@ -104,6 +104,7 @@
 - [Oh My Zsh 的花式配置](CML_OhMyZsh.md)
 - [macOS 快捷修改网络共享开关](macOS_InternetSharingQuickSwitch.md)
 - [Linux 查看服务列表](linux_listAllServices.md)
+- [Linux 常用命令](linux_CommonCommands.md)
 
 ### Certificate
 - [Lets Encrypt 证书配置](LetsEncrypt配置.md)
