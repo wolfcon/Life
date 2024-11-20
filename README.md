@@ -50,6 +50,7 @@
 - [对于 Mac Catalyst 不支持的控件的解决方案](iOS_MacCatalystCapabilityExtension.md)
 - [Mac Catalyst 中强行使用不支持的 API](iOS_MacCatalystUsingUnsupportedAPI.md)
 - [Reverse Engineering the iOS Backup](iOS_ReverseEngineeringBackup.md)
+- [Install Xcode Components Manually](Xcode_InstallXcodeComponentsManually.md)
 
 ### LocalStorage
 
