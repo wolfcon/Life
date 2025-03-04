@@ -162,6 +162,10 @@
 
 - [How to make Command & Conquer Red Alert 2 and Yuri's Revenge Maps](https://forums.cncnet.org/topic/8245-how-to-make-ra2-yr-maps-final-alert-2-tutorial/)
 
+## Food & Drink
+
+- [茶](FoodDrink_Tea.md)
+
 ## Medical
 
 - [感冒的轻症自我用药](Disease_Medicine4Cold.md)
